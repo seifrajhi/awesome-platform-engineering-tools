@@ -348,7 +348,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/SquadcastHub/awesome-platform-engineering-tools.svg)](https://starchart.cc/SquadcastHub/awesome-platform-engineering-tools)
+[![Stargazers over time](https://starchart.cc/seifrajhi/awesome-platform-engineering-tools.svg)](https://starchart.cc/seifrajhi/awesome-platform-engineering-tools)
 
 
 ## Licence
