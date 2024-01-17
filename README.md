@@ -40,6 +40,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Mercurial](https://www.mercurial-scm.org/)
 - [Perforce Helix Core](https://www.perforce.com/products/helix-core/)
 - [Subversion (SVN)](https://subversion.apache.org/)
+- [Nvim](https://neovim.io/) - hyperextensible Vim-based text editor.
 
 ### Project Management & Issue Tracking Software
 - [Jira](https://www.atlassian.com/software/jira)
@@ -315,6 +316,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Moogsoft](https://www.moogsoft.com/)
 - [incident.io](https://incident.io/)
 - [AlertManager](https://prometheus.io/docs/alerting/latest/alertmanager/)
+- [rootly](https://rootly.com) - Manage incidents directly from Slack
 
 ### IT Service Management
 - [Backstage Software Catalog](https://backstage.io/)
