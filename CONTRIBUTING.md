@@ -160,6 +160,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Solano CI](https://xebialabs.com/technology/solano-ci/)
 - [Visual Studio Team Services](https://www.visualstudio.com/team-services/)
 - [Go CD](https://www.gocd.org/)
+- [Pipelight](https://pipelight.dev/)
 
 
 ## Continuous Delivery
