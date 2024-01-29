@@ -241,6 +241,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 
 ### Container Orchestration
 - [Kubernetes](https://kubernetes.io/)
+- [Nomad](https://github.com/hashicorp/nomad)
 - [Docker Swarm](https://docs.docker.com/engine/swarm/)
 - [Apache Mesos](http://mesos.apache.org/) - with [Marathon](https://mesosphere.github.io/marathon/)
 
