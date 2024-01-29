@@ -241,6 +241,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 
 ### Container Orchestration
 - [Kubernetes](https://kubernetes.io/)
+- [Nomad](https://github.com/hashicorp/nomad)
 - [Docker Swarm](https://docs.docker.com/engine/swarm/)
 - [Apache Mesos](http://mesos.apache.org/) - with [Marathon](https://mesosphere.github.io/marathon/)
 
@@ -282,6 +283,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Healthchecks.io](https://healthchecks.io)
 - [OnlineOrNot](https://onlineornot.com/) - Uptime monitoring for websites, APIs, and cron jobs, with integrated status pages.
 - [ELK Stack (Elasticsearch, Logstash, Kibana)](https://www.elastic.co/elastic-stack)
+- [VictoriaLogs database for logs from VictoriaMetrics](https://docs.victoriametrics.com/victorialogs/)
 - [OpenTelemetry](https://opentelemetry.io/)
 
 
