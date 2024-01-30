@@ -103,7 +103,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Zephyr](https://www.getzephyr.com/)
 - [accelQ](https://www.accelq.com/)
 - [Apache jMeter](https://jmeter.apache.org/)
-- [Appium](http://appium.io/)
+- [Appium](https://appium.io/)
 - [steadybit](https://www.steadybit.com/)
 - [k6](https://k6.io/)
 - [Apache JMeter](https://jmeter.apache.org/)
@@ -139,7 +139,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Gitlab CI](https://about.gitlab.com/product/continuous-integration/)
 - [Travis CI](https://travis-ci.org/)
 - [AWS CodeStar](https://aws.amazon.com/codestar/)
-- [Buildbot](http://buildbot.net/)
+- [Buildbot](https://buildbot.net/)
 - [Semaphore CI](https://semaphoreci.com/)
 - [Concourse CI](https://concourse-ci.org/)
 - [Abstruse CI](https://github.com/bleenco/abstruse)
@@ -147,7 +147,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Appveyor](https://ci.appveyor.com/)
 - [Assertible](https://assertible.com/)
 - [Badwolf](https://github.com/bosondata/badwolf)
-- [Britise](http://bitrise.io/)
+- [Britise](https://bitrise.io/)
 - [Buildkite](https://buildkite.com/)
 - [Chrono CI](http://www.chronoci.com/)
 - [Codacy](https://www.codacy.com/)
@@ -243,7 +243,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Kubernetes](https://kubernetes.io/)
 - [Nomad](https://github.com/hashicorp/nomad)
 - [Docker Swarm](https://docs.docker.com/engine/swarm/)
-- [Apache Mesos](http://mesos.apache.org/) - with [Marathon](https://mesosphere.github.io/marathon/)
+- [Apache Mesos](https://mesos.apache.org/) - with [Marathon](https://mesosphere.github.io/marathon/)
 
 ## Continuous Monitoring
 - [AWS CloudWatch](https://aws.amazon.com/cloudwatch/)
@@ -366,6 +366,6 @@ License][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by]: https://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
