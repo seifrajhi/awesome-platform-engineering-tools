@@ -220,6 +220,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 
 
 ### Container
+- [Depot](https://depot.dev/)
 - [Docker](https://www.docker.com/)
 - [Turbo.NET](https://turbo.net/)
 - [WinDocks](https://windocks.com/)
