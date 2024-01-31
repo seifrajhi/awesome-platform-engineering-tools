@@ -195,7 +195,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [OTF](https://docs.otf.ninja/latest/) — An open source alternative to terraform enterprise.
 - [Hatchet](https://docs.hatchet.run/) — An all-in-one platform to automate, secure and monitor Terraform
 - [GitHub Actions](https://docs.github.com/en/actions) - Automate, customize, and execute your software development workflows right in your repository
-- [Runme](https://runme.dev) - Infrastructure Notebooks Built with Markdown
+- [Runme](https://runme.dev) - Infrastructure Notebooks Built with Markdown. Runme, is a VS Code extension that converts Markdown files into powerful runnable notebooks. You can mix scripts in different programming languages  including Shell, Perl, Python, and many more. With a shell kernel architecture at its core, it can be seamlessly embedded into various User Interface technologies (notebook, editor, WebApp, CLI) and headless execution as part of CI/CD pipelines.
 
 ### Infrastructure orchestration
 - [Vagrant](https://www.vagrantup.com/)
