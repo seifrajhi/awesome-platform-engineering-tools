@@ -1,32 +1,36 @@
 # Awesome Platform Engineering Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-<!--lint ignore no-dead-urls--> 
+<!--lint ignore no-dead-urls-->
 
 A curated list of Platform and Production Engineering tools - Maintained by [Saif Rajhi](https://twitter.com/RajhiSaifeddine)
 
 ## Contents
 
-- [Development](#development)
-  - [Source Code Management](#source-code-management)
-  - [Project Management &amp; Issue Tracking Software](#project-management--issue-tracking-software)
-  - [Bug / Defect Tracking Software](#bug--defect-tracking-software)
-  - [Code Editors and IDE's](#code-editors-and-ides)
-- [Continuous Testing](#continuous-testing)
-- [Continuous Integration](#continuous-integration)
-  - [Build](#build)
-  - [Integration](#integration)
-- [Continuous Delivery](#continuous-delivery)
-  - [Deployment](#deployment)
-  - [Automation and Collaboration](#automation-and-collaboration)
-  - [Infrastructure orchestration](#infrastructure-orchestration)
-  - [Container](#container)
-  - [Container Registry](#container-registry)
-  - [Container Orchestration](#container-orchestration)
-- [Continuous Monitoring](#continuous-monitoring)
-- [Incident Management / Incident Response / IT Alerting / On-Call](#incident-management--incident-response--it-alerting--on-call)
-  - [IT Service Management](#it-service-management)
-  - [Incident Communication](#incident-communication)
+- [Awesome Platform Engineering Tools ](#awesome-platform-engineering-tools-)
+  - [Contents](#contents)
+  - [Development](#development)
+    - [Source Code Management](#source-code-management)
+    - [Project Management \& Issue Tracking Software](#project-management--issue-tracking-software)
+    - [Bug / Defect Tracking Software](#bug--defect-tracking-software)
+    - [Code Editors and IDE's](#code-editors-and-ides)
+  - [Continuous Testing](#continuous-testing)
+  - [Continuous Integration](#continuous-integration)
+    - [Build](#build)
+    - [Integration](#integration)
+  - [Continuous Delivery](#continuous-delivery)
+    - [Deployment](#deployment)
+    - [Automation and Collaboration](#automation-and-collaboration)
+    - [Infrastructure orchestration](#infrastructure-orchestration)
+    - [Container](#container)
+    - [Container Registry](#container-registry)
+    - [Container Orchestration](#container-orchestration)
+  - [Continuous Monitoring](#continuous-monitoring)
+  - [Incident Management / Incident Response / IT Alerting / On-Call](#incident-management--incident-response--it-alerting--on-call)
+    - [IT Service Management](#it-service-management)
+    - [Incident Communication](#incident-communication)
   - [Security](#security)
+  - [Stargazers over time](#stargazers-over-time)
+  - [Licence](#licence)
 
 
 
@@ -85,7 +89,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [TextMate](https://macromates.com/)
 - [gedit](https://gitlab.gnome.org/GNOME/gedit/)
 - [WebStorm](https://www.jetbrains.com/webstorm/)
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) 
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 - [Eclipse Che](https://www.eclipse.org/che/)
 
@@ -194,7 +198,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Terrateam](https://terrateam.io/) — Infrastructure as Code CI/CD for GitHub
 - [OTF](https://docs.otf.ninja/latest/) — An open source alternative to terraform enterprise.
 - [Hatchet](https://docs.hatchet.run/) — An all-in-one platform to automate, secure and monitor Terraform
-- [GitHub Actions](https://docs.github.com/en/actions) - Automate, customize, and execute your software development workflows right in your repository 
+- [GitHub Actions](https://docs.github.com/en/actions) - Automate, customize, and execute your software development workflows right in your repository
 
 ### Infrastructure orchestration
 - [Vagrant](https://www.vagrantup.com/)
@@ -210,7 +214,6 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Rundeck](https://www.rundeck.com/)
 - [Selefra](https://www.selefra.io/)
 - [Scalr](https://www.scalr.com/)
-- [Pulumi](https://www.pulumi.com/)
 - [Google Cloud Deployment Manager](https://cloud.google.com/deployment-manager/)
 - [OPS](https://ops.city)
 - [Helm](https://helm.sh/) - The package manager for Kubernetes
@@ -259,7 +262,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [loggly](https://www.loggly.com/)
 - [logmatic](https://logmatic.io/)
 - [Logstash](https://www.elastic.co/products/logstash)
-- [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) 
+- [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
 - [MongoDB Cloud Manager](https://www.mongodb.com/cloud/cloud-manager)
 - [NewRelic](https://newrelic.com/)
 - [Papertrail](https://papertrailapp.com/)
@@ -272,7 +275,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics/)
 - [Chaos Genius](https://www.chaosgenius.io/)
 - [Thanos](https://thanos.io/)
-- [Mimir](https://grafana.com/oss/mimir/) 
+- [Mimir](https://grafana.com/oss/mimir/)
 - [Hydrozen.io](https://hydrozen.io) - Uptime monitoring & Statuspages
 - [Steampipe.io](https://steampipe.io) - Universal SQL interface to any cloud API
 - [Better Stack](https://betterstack.com/)
