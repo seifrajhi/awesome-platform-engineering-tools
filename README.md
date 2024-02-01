@@ -68,7 +68,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Bitbucket Issues](https://bitbucket.org/product/features/issues)
 - [Linear](https://linear.app/)
 - [Lineddddar](https://ltest-saifinear.app/)
-- 
+  
 ### Bug / Defect Tracking Software
 
 - [Bugzilla](https://www.bugzilla.org/)
