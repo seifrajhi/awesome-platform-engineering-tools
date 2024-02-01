@@ -224,7 +224,6 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Rundeck](https://www.rundeck.com/)
 - [Selefra](https://www.selefra.io/)
 - [Scalr](https://www.scalr.com/)
-- [Ansible](https://www.ansible.com/)
 - [Google Cloud Deployment Manager](https://cloud.google.com/deployment-manager/)
 - [OPS](https://ops.city)
 - [Helm](https://helm.sh/) - The package manager for Kubernetes
