@@ -67,7 +67,8 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [GitLab Boards](https://docs.gitlab.com/ee/user/project/issue_board.html)
 - [Bitbucket Issues](https://bitbucket.org/product/features/issues)
 - [Linear](https://linear.app/)
-
+- [Linear](https://linear.app/)
+- 
 ### Bug / Defect Tracking Software
 
 - [Bugzilla](https://www.bugzilla.org/)
