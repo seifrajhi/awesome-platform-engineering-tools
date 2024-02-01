@@ -34,6 +34,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
   - [Licence](#licence)
 
 ## Articles and Presentations
+
 - [Chances are you don't need a platform team](https://theprogressivearchitect.substack.com/p/chances-are-you-dont-need-a-platform) - How to minimize your platform and maximize user value by [@bschaatsbergen](https://github.com/bschaatsbergen) ![Blog Status](https://img.shields.io/badge/Blog-Active).
 
 ## Development
