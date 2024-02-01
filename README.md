@@ -8,6 +8,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 
 - [Awesome Platform Engineering Tools](#awesome-platform-engineering-tools-)
   - [Contents](#contents)
+  - [Articles and Presentations](article-and-presentations)
   - [Development](#development)
     - [Source Code Management](#source-code-management)
     - [Project Management \& Issue Tracking Software](#project-management--issue-tracking-software)
@@ -31,6 +32,9 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
   - [Security](#security)
   - [Stargazers over time](#stargazers-over-time)
   - [Licence](#licence)
+
+## Articles and Presentations
+- [Chances are you don't need a platform team](https://theprogressivearchitect.substack.com/p/chances-are-you-dont-need-a-platform) - How to minimize your platform and maximize user value by [@bschaatsbergen](https://github.com/bschaatsbergen) ![Blog Status](https://img.shields.io/badge/Blog-Active).
 
 ## Development
 
