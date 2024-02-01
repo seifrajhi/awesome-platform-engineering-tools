@@ -366,7 +366,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Aqua Security](https://www.aquasec.com/)
 - [Wiz](https://www.wiz.io/)
 - [Wazuh](https://wazuh.com/)
-- [Qualys Cloud Platform]()
+- [Qualys Cloud Platform](https://www.qualys.com/cloud-platform/)
 
 ## Stargazers over time
 
