@@ -6,7 +6,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 
 ## Contents
 
-- [Awesome Platform Engineering Tools ](#awesome-platform-engineering-tools-)
+- [Awesome Platform Engineering Tools](#awesome-platform-engineering-tools-)
   - [Contents](#contents)
   - [Development](#development)
     - [Source Code Management](#source-code-management)
@@ -32,10 +32,10 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
   - [Stargazers over time](#stargazers-over-time)
   - [Licence](#licence)
 
-
-
 ## Development
+
 ### Source Code Management
+
 - [Git](https://git-scm.com/)
 - [GitHub](https://github.com/)
 - [Gitlab](https://about.gitlab.com/)
@@ -47,6 +47,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Nvim](https://neovim.io/) - hyperextensible Vim-based text editor.
 
 ### Project Management & Issue Tracking Software
+
 - [Jira](https://www.atlassian.com/software/jira)
 - [Trello](https://trello.com/)
 - [Zoho Sprints](https://www.zoho.com/sprints/)
@@ -68,6 +69,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Linear](https://linear.app/)
 
 ### Bug / Defect Tracking Software
+
 - [Bugzilla](https://www.bugzilla.org/)
 - [Bugsee](https://www.bugsee.com/)
 - [Instabug](https://instabug.com/)
@@ -77,6 +79,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Github Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues)
 
 ### Code Editors and IDEs
+
 - [GNU Emacs](https://www.gnu.org/software/emacs/)
 - [Notepad++](https://notepad-plus-plus.org/)
 - [Atom](https://atom.io/)
@@ -94,6 +97,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Eclipse Che](https://www.eclipse.org/che/)
 
 ## Continuous Testing
+
 - [Selenium](https://www.seleniumhq.org/)
 - [JUnit](https://junit.org/)
 - [TestNG](https://testng.org/doc/index.html)
@@ -116,7 +120,9 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [TestRail](https://www.gurock.com/testrail/)
 
 ## Continuous Integration
+
 ### Build
+
 - [Ninja](https://ninja-build.org/)
 - [Meson](https://mesonbuild.com/)
 - [CMake](https://cmake.org/)
@@ -135,6 +141,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/)
 
 ### Integration
+
 - [Jenkins](https://jenkins.io/)
 - [Bamboo](https://www.atlassian.com/software/bamboo)
 - [Hudson](http://hudson-ci.org/)
@@ -167,9 +174,10 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Go CD](https://www.gocd.org/)
 - [Pipelight](https://pipelight.dev/)
 
-
 ## Continuous Delivery
+
 ### Deployment
+
 - [AWS CodeDeploy](https://aws.amazon.com/codedeploy/)
 - [ElectricFlow](http://electric-cloud.com/products/electricflow/)
 - [Octopus Deploy](https://octopus.com/)
@@ -182,14 +190,14 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [ArgoCD](https://argo-cd.readthedocs.io/en/stable/)
 - [FluxCD](https://fluxcd.io/)
 - [Jenkins X](https://jenkins-x.io/) - CI/CD including everything you need to start exploring Kubernetes
-- [Tekton ](https://tekton.dev/)
+- [Tekton](https://tekton.dev/)
 - [Buddy Works](https://buddy.works/)
 - [werf](https://werf.io/)
 - [Google Cloud Build](https://cloud.google.com/build)
 - [Spinnaker](https://spinnaker.io/)
 
-
 ### Automation and Collaboration
+
 - [Digger](https://www.digger.dev/) - Infrastructure as code management platform that enables you to run OpenTofu & Terraform in your CI/CD system.
 - [Atlantis](https://www.runatlantis.io/) — Open Source Terraform Pull Request Automation tool.
 - [Env0](https://www.env0.com/) — Automate and Manage IaC at Scale, With Confidence
@@ -201,8 +209,8 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [GitHub Actions](https://docs.github.com/en/actions) - Automate, customize, and execute your software development workflows right in your repository
 - [Runme](https://runme.dev) - Infrastructure Notebooks Built with Markdown. Runme is a free tool that enables Markdown files to become runnable notebooks. You can use scripts in Shell, Perl, Python, and more.
 
-
 ### Infrastructure orchestration
+
 - [Vagrant](https://www.vagrantup.com/)
 - [Puppet](https://puppet.com/)
 - [Chef](https://www.chef.io/)
@@ -223,8 +231,8 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Crossplane](https://www.crossplane.io/)
 - [Packer](https://www.packer.io/)
 
-
 ### Container
+
 - [Depot](https://depot.dev/)
 - [Docker](https://www.docker.com/)
 - [Turbo.NET](https://turbo.net/)
@@ -234,6 +242,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [OpenShift](https://www.openshift.com/)
 
 ### Container Registry
+
 - [Docker Hub](https://hub.docker.com/)
 - [Google Container Registry](https://cloud.google.com/container-registry/)
 - [Amazon ECR](https://aws.amazon.com/ecr/)
@@ -246,12 +255,14 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Harbor](https://goharbor.io/)
 
 ### Container Orchestration
+
 - [Kubernetes](https://kubernetes.io/)
 - [Nomad](https://github.com/hashicorp/nomad)
 - [Docker Swarm](https://docs.docker.com/engine/swarm/)
 - [Apache Mesos](https://mesos.apache.org/) - with [Marathon](https://mesosphere.github.io/marathon/)
 
 ## Continuous Monitoring
+
 - [AWS CloudWatch](https://aws.amazon.com/cloudwatch/)
 - [DebugBear](https://www.debugbear.com/)
 - [Prometheus](https://prometheus.io/)
@@ -292,10 +303,8 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [VictoriaLogs database for logs from VictoriaMetrics](https://docs.victoriametrics.com/victorialogs/)
 - [OpenTelemetry](https://opentelemetry.io/)
 
-
-
-
 ## Incident Management / Incident Response / IT Alerting / On-Call
+
 - [Squadcast](https://www.squadcast.com)
 - [PagerDuty](https://www.pagerduty.com/)
 - [VictorOps](https://victorops.com/)
@@ -329,6 +338,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Pagerly](https://pagerly.io) - Manage Oncalls and Incidents on Slack
 
 ### IT Service Management
+
 - [Backstage Software Catalog](https://backstage.io/)
 - [Homer](https://homer-demo.netlify.app/) - A very simple static homepage for your server.
 - [FreshService](https://freshservice.com/)
@@ -342,6 +352,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Zendesk](https://www.zendesk.com/)
 
 ### Incident Communication
+
 - [Squadcast Statuspages](https://www.squadcast.com/statuspage)
 - [StatusPal](https://statuspal.io/?utm_source=github.com&utm_medium=referral&utm_campaign=awesome-devops) - communicate incidents and maintenance effectively with a beautiful hosted status page.
 - [Hydrozen.io Statuspages](https://hydrozen.io)
@@ -350,18 +361,16 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Cachet](https://cachethq.io/)
 
 ## Security
+
 - [Sysdig Secure](https://sysdig.com/)
 - [Aqua Security](https://www.aquasec.com/)
 - [Wiz](https://www.wiz.io/)
 - [Wazuh](https://wazuh.com/)
 - [Qualys Cloud Platform]()
 
-
-
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/seifrajhi/awesome-platform-engineering-tools.svg)](https://starchart.cc/seifrajhi/awesome-platform-engineering-tools)
-
 
 ## Licence
 
