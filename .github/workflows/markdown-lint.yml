@@ -21,4 +21,4 @@ jobs:
         run: npm install -g markdownlint-cli
 
       - name: Run markdownlint
-        run: markdownlint --config .github/linters/.markdownlint.json --rules .github/linters/detect-duplicates-in-section.js '**/*.md'
+        run: markdownlint --config .github/workflows/.markdownlint.json --rules .github/workflows/detect-duplicates-in-section.js '**/*.md'
