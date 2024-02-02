@@ -30,12 +30,15 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
     - [IT Service Management](#it-service-management)
     - [Incident Communication](#incident-communication)
   - [Security](#security)
+  - [Internal Developer Portal](#internal-developer-portal)
   - [Stargazers over time](#stargazers-over-time)
   - [Licence](#licence)
 
 ## Articles and Presentations
 
 - [Chances are you don't need a platform team](https://theprogressivearchitect.substack.com/p/chances-are-you-dont-need-a-platform) - How to minimize your platform and maximize user value by [@bschaatsbergen](https://github.com/bschaatsbergen) ![Blog Status](https://img.shields.io/badge/Blog-Active).
+- [How To Create A Complete Internal Developer Platform (IDP)?](https://www.youtube.com/watch?v=Rg98GoEHBd4) - It's time to build an internal developer platform (IDO) with Crossplane, Argo CD, SchemaHero, External Secrets Operator (ESO), GitHub Actions, Port, and a few others by [@vfarcic](https://gist.github.com/vfarcic) ![YouTube video views](https://img.shields.io/youtube/views/Rg98GoEHBd4)
+- [The Practical Guide to Internal Developer Portals](https://www.getport.io/guide) - The next big thing in DevOps is platform engineering, and the main tool it uses is the internal developer portal. Read this guide to understand what can be done with portals and why they matter.
 
 ## Development
 
@@ -335,7 +338,6 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Grafana OnCall](https://grafana.com/oss/oncall/)
 - [Keep - CLI for alerting](https://github.com/keephq/keep)
 - [Better Stack](https://betterstack.com/)
-- [OpsLevel](https://www.opslevel.com/)
 - [Everbridge](https://www.everbridge.com/)
 - [Moogsoft](https://www.moogsoft.com/)
 - [incident.io](https://incident.io/)
@@ -345,7 +347,6 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 
 ### IT Service Management
 
-- [Backstage Software Catalog](https://backstage.io/)
 - [Homer](https://homer-demo.netlify.app/) - A very simple static homepage for your server.
 - [FreshService](https://freshservice.com/)
 - [ServiceNow](https://www.servicenow.com/)
@@ -373,6 +374,11 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Wiz](https://www.wiz.io/)
 - [Wazuh](https://wazuh.com/)
 - [Qualys Cloud Platform](https://www.qualys.com/cloud-platform/)
+
+## Internal Developer Portal
+- [Port](https://www.getport.io/)
+- [Backstage Software Catalog](https://backstage.io/)
+- [OpsLevel](https://www.opslevel.com/)
 
 ## Stargazers over time
 
