@@ -8,7 +8,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 
 - [Awesome Platform Engineering Tools](#awesome-platform-engineering-tools-)
   - [Contents](#contents)
-  - [Articles and Presentations](article-and-presentations)
+  - [Articles and Presentations and Books](article-and-presentations-and-books)
   - [Development](#development)
     - [Source Code Management](#source-code-management)
     - [Project Management \& Issue Tracking Software](#project-management--issue-tracking-software)
@@ -34,11 +34,12 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
   - [Stargazers over time](#stargazers-over-time)
   - [Licence](#licence)
 
-## Articles and Presentations
+## Articles and Presentations and Books
 
 - [Chances are you don't need a platform team](https://theprogressivearchitect.substack.com/p/chances-are-you-dont-need-a-platform) - How to minimize your platform and maximize user value by [@bschaatsbergen](https://github.com/bschaatsbergen) ![Blog Status](https://img.shields.io/badge/Blog-Active).
 - [How To Create A Complete Internal Developer Platform (IDP)?](https://www.youtube.com/watch?v=Rg98GoEHBd4) - It's time to build an internal developer platform (IDO) with Crossplane, Argo CD, SchemaHero, External Secrets Operator (ESO), GitHub Actions, Port, and a few others by [@vfarcic](https://gist.github.com/vfarcic) ![YouTube video views](https://img.shields.io/youtube/views/Rg98GoEHBd4)
-- [The Practical Guide to Internal Developer Portals](https://www.getport.io/guide) - The next big thing in DevOps is platform engineering, and the main tool it uses is the internal developer portal. Read this guide to understand what can be done with portals and why they matter.
+- [The Practical Guide to Internal Developer Portals](https://www.getport.io/guide) - The next big thing in DevOps is platform engineering, and the main tool it uses is the internal developer portal. Read this guide to understand what can be done with portals and why they matter ![Blog Status](https://img.shields.io/badge/Blog-Active).
+- [Platform Engineering on Kubernetes](https://www.manning.com/books/platform-engineering-on-kubernetes) - A book that teaches how to build custom platforms on top of Kubernetes using open-source tools such as Dapr, Knative, Argo CD and Rollouts, and Tekton. It explores the tools and techniques needed to overcome common cloud-native challenges and is suitable for readers with different expertise levels ![Blog Status](https://img.shields.io/badge/Blog-Active).
 
 ## Development
 
