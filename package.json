@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "test": "awesome-lint",
+    "postinstall": "husky install",
+    "lint-staged": "lint-staged"
+  },
+  "devDependencies": {
+    "lint-staged": "^13.1.0",
+	"awesome-lint": "^0.18.1",
+	"husky": "^8.0.3"
+  }
+}
