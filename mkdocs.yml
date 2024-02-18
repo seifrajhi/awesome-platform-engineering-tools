@@ -1,0 +1,20 @@
+site_name: Awesome Platform Engineering Tools
+site_description: A curated list of platform solutions, tools, practices and resources for Platform Engineering.
+site_author: Saif(eddine) RAJHI
+repo_name: seifrajhi/awesome-platform-engineering-tools
+repo_url: https://github.com/seifrajhi/awesome-platform-engineering-tools
+theme:
+  name: material
+extra:
+  analytics:
+    provider: google
+    property: G-SNWZL73P7L
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/seifrajhi
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/rajhisaifeddine
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/rajhi-saif/
+nav:
+  - "Awesome Platform Engineering Tools": "index.md"
