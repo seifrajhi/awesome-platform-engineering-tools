@@ -8,7 +8,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 
 - [Awesome Platform Engineering Tools](#awesome-platform-engineering-tools-)
   - [Contents](#contents)
-  - [Articles and Presentations and Books](#article-and-presentations-and-books)
+  - [Articles and Presentations and Books](#articles-and-presentations-and-books)
   - [Reference Architecture](#reference-architecture)
   - [Development](#development)
     - [Source Code Management](#source-code-management)
