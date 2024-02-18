@@ -4,6 +4,7 @@ site_author: Saif(eddine) RAJHI
 repo_name: seifrajhi/awesome-platform-engineering-tools
 site_url: https://seifrajhi.github.io/awesome-platform-engineering-tools
 repo_url: https://github.com/seifrajhi/awesome-platform-engineering-tools
+docs_dir: "./"
 theme:
   name: material
   custom_dir: overrides
@@ -23,7 +24,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: switch to light mode
-docs_dir: "docs"
+extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/seifrajhi
