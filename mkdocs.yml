@@ -7,7 +7,6 @@ repo_url: https://github.com/seifrajhi/awesome-platform-engineering-tools
 docs_dir: "./"
 theme:
   name: material
-  custom_dir: overrides
   icon:
     repo: fontawesome/brands/github
   features:
