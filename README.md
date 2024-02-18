@@ -43,7 +43,6 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Platform Engineering on Kubernetes](https://www.manning.com/books/platform-engineering-on-kubernetes) - A book that teaches how to build custom platforms on top of Kubernetes using open-source tools such as Dapr, Knative, Argo CD and Rollouts, and Tekton. It explores the tools and techniques needed to overcome common cloud-native challenges and is suitable for readers with different expertise levels ![Blog Status](https://img.shields.io/badge/Blog-Active).
 - [Build Your IDP at Light Speed with a Platform Reference Architecture](https://thenewstack.io/build-your-idp-at-light-speed-with-a-platform-reference-architecture/) - Now organizations have a standard, proven, scalable, and repeatable pattern for internal developer platforms that’s applicable to any tooling choice ![Blog Status](https://img.shields.io/badge/Blog-Active).
 
-
 ## Reference Architecture
 
 - [The Reference Architecture for Agility is a technology-neutral logical architecture based on a disaggregated cloud-based model](https://github.com/wso2/reference-architecture/tree/master) - A proven approach to helping every development organization become an integration agile organization.
