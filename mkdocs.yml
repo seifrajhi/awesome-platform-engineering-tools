@@ -3,7 +3,6 @@ site_description: A curated list of platform solutions, tools, practices and res
 site_author: Saif(eddine) RAJHI
 repo_name: seifrajhi/awesome-platform-engineering-tools
 repo_url: https://github.com/seifrajhi/awesome-platform-engineering-tools
-docs_dir: "docs"
 theme:
   name: material
   icon:
