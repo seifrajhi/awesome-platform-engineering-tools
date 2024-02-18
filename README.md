@@ -8,7 +8,8 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 
 - [Awesome Platform Engineering Tools](#awesome-platform-engineering-tools-)
   - [Contents](#contents)
-  - [Articles and Presentations and Books](article-and-presentations-and-books)
+  - [Articles and Presentations and Books](#article-and-presentations-and-books)
+  - [Reference Architecture](#reference-architecture)
   - [Development](#development)
     - [Source Code Management](#source-code-management)
     - [Project Management \& Issue Tracking Software](#project-management--issue-tracking-software)
@@ -41,6 +42,17 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [The Practical Guide to Internal Developer Portals](https://www.getport.io/guide) - The next big thing in DevOps is platform engineering, and the main tool it uses is the internal developer portal. Read this guide to understand what can be done with portals and why they matter ![Blog Status](https://img.shields.io/badge/Blog-Active).
 - [Platform Engineering on Kubernetes](https://www.manning.com/books/platform-engineering-on-kubernetes) - A book that teaches how to build custom platforms on top of Kubernetes using open-source tools such as Dapr, Knative, Argo CD and Rollouts, and Tekton. It explores the tools and techniques needed to overcome common cloud-native challenges and is suitable for readers with different expertise levels ![Blog Status](https://img.shields.io/badge/Blog-Active).
 - [Build Your IDP at Light Speed with a Platform Reference Architecture](https://thenewstack.io/build-your-idp-at-light-speed-with-a-platform-reference-architecture/) - Now organizations have a standard, proven, scalable, and repeatable pattern for internal developer platforms that’s applicable to any tooling choice ![Blog Status](https://img.shields.io/badge/Blog-Active).
+
+
+## Reference Architecture
+
+- [The Reference Architecture for Agility is a technology-neutral logical architecture based on a disaggregated cloud-based model](https://github.com/wso2/reference-architecture/tree/master) - A proven approach to helping every development organization become an integration agile organization.
+- [CloudGeometry Reference Architecture](https://github.com/CloudGeometry/cg-devx-core) - CloudGeometry Reference Architecture for simplifying the creation and management of DevOps and Cloud resources.
+- [AWS Reference Architecture implementation](https://github.com/humanitec-architecture/reference-architecture-aws) - How to spin up your Humanitec AWS Reference Architecture.
+- [GCP Reference Architecture implementation](https://github.com/humanitec-architecture/reference-architecture-gcp) - How to spin up your Humanitec Google Cloud Reference Architecture Implementation.
+- [Azure Reference Architecture implementation](https://github.com/humanitec-architecture/reference-architecture-azure) - How to spin up your Humanitec Azure Reference Architecture.
+- [IBM Cloud Reference Architecture](https://github.com/IBM/ibm-cloud-reference-architectures) -  IBM Infrastructure Automation.
+- [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture) - A curated list of resources on software architecture.
 
 ## Development
 
