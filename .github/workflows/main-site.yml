@@ -13,5 +13,6 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install mkdocs-material mkdocs-static-i18n==1.2.0
-      - run: cp README.md ./content/index.md
+      - run: ls
+      - run: cp README.md content/index.md
       - run: mkdocs gh-deploy --force
