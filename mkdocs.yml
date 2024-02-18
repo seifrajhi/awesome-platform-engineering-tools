@@ -5,10 +5,6 @@ repo_name: seifrajhi/awesome-platform-engineering-tools
 repo_url: https://github.com/seifrajhi/awesome-platform-engineering-tools
 theme:
   name: material
-extra:
-  analytics:
-    provider: google
-    property: G-SNWZL73P7L
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/seifrajhi
