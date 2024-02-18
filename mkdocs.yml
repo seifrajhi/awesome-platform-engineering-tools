@@ -5,7 +5,7 @@ repo_name: seifrajhi/awesome-platform-engineering-tools
 repo_url: https://github.com/seifrajhi/awesome-platform-engineering-tools
 theme:
   name: material
-	custom_dir: overrides
+  custom_dir: overrides
   icon:
     repo: fontawesome/brands/github
   features:
@@ -22,6 +22,10 @@ theme:
       toggle:
         icon: material/brightness-4
         name: switch to light mode
+
+nav:
+  - "Awesome Platform Engineering Tools": "index.md"
+  
 extra:
   social:
     - icon: fontawesome/brands/github
@@ -30,5 +34,3 @@ extra:
       link: https://twitter.com/rajhisaifeddine
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/rajhi-saif/
-nav:
-  - "Awesome Platform Engineering Tools": "index.md"
