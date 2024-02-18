@@ -1,0 +1,21 @@
+name: Readme to GitHub Pages site
+on:
+  push:
+    branches:
+      - main
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+      - uses: actions/cache@v2
+        with:
+          key: ${{ github.ref }}
+          path: .cache
+      - run: pip install mkdocs-material
+      - run: mkdir ./docs
+      - run: cp README.md ./docs/index.md
+      - run: mkdocs gh-deploy --force
