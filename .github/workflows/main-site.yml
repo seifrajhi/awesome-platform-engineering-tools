@@ -1,20 +1,8 @@
 name: deploy to mkdocs
-
-# the two different ways to trigger the workflow
 on:
-  # enable manual trigger button in github actions web
-  workflow_dispatch:
-
-  # enable auto trigger based on both path and branch
   push:
-
-    # only main branch
     branches:
       - main
-
-    # at least one changed file must match this path
-    paths:
-      - './**'
 
 jobs:
   deploy:
