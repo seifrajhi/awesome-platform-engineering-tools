@@ -31,4 +31,4 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/rajhi-saif/
 nav:
-  - "Awesome Platform Engineering Tools": "./docs/index.md"
+  - "Awesome Platform Engineering Tools": "index.md"
