@@ -6,6 +6,24 @@ site_url: https://seifrajhi.github.io/awesome-platform-engineering-tools
 repo_url: https://github.com/seifrajhi/awesome-platform-engineering-tools
 theme:
   name: material
+  custom_dir: overrides
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - tabs
+    - content.code.copy
+    - announce.dismiss
+    - header.autohide
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: switch to light mode
+docs_dir: "docs"
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/seifrajhi
