@@ -33,6 +33,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
     - [Incident Communication](#incident-communication)
   - [Security](#security)
   - [Internal Developer Portal](#internal-developer-portal)
+  - [Miscellaneous and Related](#miscellaneous-and-related)
   - [Stargazers over time](#stargazers-over-time)
   - [Licence](#licence)
 
@@ -409,6 +410,15 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Port](https://www.getport.io/)
 - [Backstage Software Catalog](https://backstage.io/)
 - [OpsLevel](https://www.opslevel.com/)
+
+## Miscellaneous and Related
+
+- [Cloud Native Interactive Landscape](https://landscape.cncf.io/)
+- [Platformengineering.org tooling list](https://platformengineering.org/platform-tooling)
+- [Platform Engineering list](https://github.com/toptechevangelist/awesome-platform-engineering)
+- [The 12 Platform Challenges](https://www.syntasso.io/post/the-12-platform-challenges-of-christmas)
+- [DevSecOps resources and tooling](https://github.com/TaptuIT/awesome-devsecops/)
+- [Architecture- Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
 
 ## Stargazers over time
 
