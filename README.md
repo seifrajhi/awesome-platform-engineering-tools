@@ -341,6 +341,13 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [ELK Stack (Elasticsearch, Logstash, Kibana)](https://www.elastic.co/elastic-stack)
 - [VictoriaLogs database for logs from VictoriaMetrics](https://docs.victoriametrics.com/victorialogs/)
 - [OpenTelemetry](https://opentelemetry.io/)
+- [Fluentd CNCF- a Distributed Tracing Platform](https://github.com/fluent/fluentd)
+- [Jaeger CNCF: Unified Logging Layer](https://github.com/jaegertracing/jaeger)
+- [Infracost- cost estimates for Terraform](https://github.com/infracost/infracost)
+- [OpenCost — open source cost monitoring tool for Kubernetes](https://github.com/opencost/opencost)
+- [Apache SkyWalking — Application Performance Monitoring](https://github.com/apache/skywalking)
+- [SigNoz- an open-source alternative to DataDog, NewRelic, etc.](https://github.com/signoz/signoz)
+- [Loki - low cost open source logging; self-hosted or SaaS](https://grafana.com/oss/loki/)
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
 
