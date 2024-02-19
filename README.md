@@ -9,6 +9,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Awesome Platform Engineering Tools](#awesome-platform-engineering-tools-)
   - [Contents](#contents)
   - [Articles and Presentations and Books](#articles-and-presentations-and-books)
+  - [Newsletters, Chats and Podcasts](#newsletters-chats-and-podcasts)
   - [Reference Architecture](#reference-architecture)
   - [Development](#development)
     - [Source Code Management](#source-code-management)
@@ -42,6 +43,20 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [The Practical Guide to Internal Developer Portals](https://www.getport.io/guide) - The next big thing in DevOps is platform engineering, and the main tool it uses is the internal developer portal. Read this guide to understand what can be done with portals and why they matter ![Blog Status](https://img.shields.io/badge/Blog-Active).
 - [Platform Engineering on Kubernetes](https://www.manning.com/books/platform-engineering-on-kubernetes) - A book that teaches how to build custom platforms on top of Kubernetes using open-source tools such as Dapr, Knative, Argo CD and Rollouts, and Tekton. It explores the tools and techniques needed to overcome common cloud-native challenges and is suitable for readers with different expertise levels ![Blog Status](https://img.shields.io/badge/Blog-Active).
 - [Build Your IDP at Light Speed with a Platform Reference Architecture](https://thenewstack.io/build-your-idp-at-light-speed-with-a-platform-reference-architecture/) - Now organizations have a standard, proven, scalable, and repeatable pattern for internal developer platforms that’s applicable to any tooling choice ![Blog Status](https://img.shields.io/badge/Blog-Active).
+
+## Newsletters, Chats and Podcasts
+
+- [Platform Engineering](https://platformengineering.org)
+- [Internal Developer Platform](https://internaldeveloperplatform.org)
+- [The New Stack](https://thenewstack.io/)
+- [Resources about Internal Platform teams and products](https://internalplatforms.com)
+- [Humanitec (Platform Engineering) Blog](https://humanitec.com/blog)
+- [InfoQ Platform Engineering Articles](https://www.infoq.com/platformengineering/)
+- [Port Blog](https://www.getport.io/blog)
+- [Platform weekly](https://platformweekly.com/)
+- [Platformengineering.org Slack](https://platformengineering.org/slack-rd)
+- [What's Platform Engineering? And How Does It Support DevOps?](https://www.listennotes.com/podcasts/the-new-stack/whats-platform-engineering-uoN5mXizUpP/)
+- [The New Stack Podcast](https://www.listennotes.com/podcasts/the-new-stack-podcast-the-new-stack-2tdxfCmwZr6/)
 
 ## Reference Architecture
 
