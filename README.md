@@ -417,6 +417,8 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Port](https://www.getport.io/)
 - [Backstage Software Catalog](https://backstage.io/)
 - [OpsLevel](https://www.opslevel.com/)
+- [KusionStack](https://www.kusionstack.io/)
+- [KusionStack](https://www.kubestack.com/)
 
 ## Miscellaneous and Related
 
