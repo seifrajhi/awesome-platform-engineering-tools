@@ -44,6 +44,16 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [The Practical Guide to Internal Developer Portals](https://www.getport.io/guide) - The next big thing in DevOps is platform engineering, and the main tool it uses is the internal developer portal. Read this guide to understand what can be done with portals and why they matter ![Blog Status](https://img.shields.io/badge/Blog-Active).
 - [Platform Engineering on Kubernetes](https://www.manning.com/books/platform-engineering-on-kubernetes) - A book that teaches how to build custom platforms on top of Kubernetes using open-source tools such as Dapr, Knative, Argo CD and Rollouts, and Tekton. It explores the tools and techniques needed to overcome common cloud-native challenges and is suitable for readers with different expertise levels ![Blog Status](https://img.shields.io/badge/Blog-Active).
 - [Build Your IDP at Light Speed with a Platform Reference Architecture](https://thenewstack.io/build-your-idp-at-light-speed-with-a-platform-reference-architecture/) - Now organizations have a standard, proven, scalable, and repeatable pattern for internal developer platforms that’s applicable to any tooling choice ![Blog Status](https://img.shields.io/badge/Blog-Active).
+- [What Is Platform Engineering? Role, Principles & Benefits](https://spacelift.io/blog/what-is-platform-engineering)![Blog Status](https://img.shields.io/badge/Blog-Active).
+- [How to Design an Internal Developer Platform](https://blog.container-solutions.com/how-to-design-an-internal-developer-platform)![Blog Status](https://img.shields.io/badge/Blog-Active).
+- [A Platform Team Product Manager Determines DevOps Success](https://thenewstack.io/a-platform-team-product-manager-determines-devops-success/)![Blog Status](https://img.shields.io/badge/Blog-Active).
+- [Platform Engineering KPIs](https://medium.com/wise-engineering/platform-engineering-kpis-6a3215f0ee14)![Blog Status](https://img.shields.io/badge/Blog-Active).
+- [Platform Engineering: Creating your Internal Developer Platform](https://medium.com/contino-engineering/creating-your-internal-developer-platform-part-2-65ff217cecd6)![Blog Status](https://img.shields.io/badge/Blog-Active).
+- [The 10 Platform Engineering Tools To Use in 2022](https://medium.com/@rphilogene/the-10-platform-engineering-tools-to-use-in-2022-c2cbf2561f77)![Blog Status](https://img.shields.io/badge/Blog-Active).
+- [Platform Engineering at Palo Alto Networks](https://medium.com/engineering-at-palo-alto-networks/platform-engineering-at-palo-alto-networks-part-2-315bd7b0fbfa)![Blog Status](https://img.shields.io/badge/Blog-Active).
+- [Platform Engineering story from a CTO: WHY, WHAT, HOW](https://medium.com/agorapulse-stories/platform-engineering-part-1-why-the-evolution-of-developer-cognitive-load-9f36f5cc2888)![Blog Status](https://img.shields.io/badge/Blog-Active).
+- [Create Preview Environments with Terraform, GitHub Actions, and Vercel](https://developer.hashicorp.com/terraform/tutorials/applications/preview-environments-vercel)![Blog Status](https://img.shields.io/badge/Blog-Active).
+- [Guide To Internal Developer Portals](https://www.getport.io/blog/guide-to-internal-developer-portals)![Blog Status](https://img.shields.io/badge/Blog-Active).
 
 ## Newsletters, Chats and Podcasts
 
