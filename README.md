@@ -77,18 +77,17 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Mia platform](https://mia-platform.eu/) - Don’t waste time setting up your platform, just push the code!.
 - [Humanitec](https://humanitec.com/) - Powering your Internal Developer Platform.
 - [devtron](https://devtron.ai/) - An open source Internal Developer Platform for Kubernetes.
-- [SaaS Backstage](https://roadie.io/ Roadie) - SaaS Backstage. Simple, safe, and more powerful.
-- [ZYMR](https://www.zymr.com/product-platform-engineering-services) - We excell at Platform engineering.   
+- [SaaS Backstage Roadie](https://roadie.io/) - SaaS Backstage. Simple, safe, and more powerful.
+- [ZYMR](https://www.zymr.com/product-platform-engineering-services) - We excell at Platform engineering.
 - [cycloid](https://www.cycloid.io/platform-engineering) -  Platform Engineering is DevOps with an action plan.  
 - [CTO: platform for platform teams](https://cto.ai/platform) -  The platform for platform teams : Easily implement your vision for the perfect developer platform without having to build everything from scratch. We’re more than just a CI/CD pipeline. We’re an intelligent automation platform for all of your development workflows.
 - [Kratix](https://github.com/syntasso/kratix)  - A framework for building Platform-as-a-Product.
 - [score](https://score.dev) - One easy way to configure all your workload. Everywhere.
-- [kubevela](https://kubevela.io/) -  Make shipping applications more enjoyable. 
+- [kubevela](https://kubevela.io/) - Make shipping applications more enjoyable.
 - [qovery](https://www.qovery.com/) - Deliver Self-Service Infrastructure Faster.
 - [kusionstack](https://kusionstack.io/) - Open Tech Stack to build self-service, collaborative, reliable and sustainable Internal Developer Platform.
 
 ## Reference Architecture
-
 
 - [The Reference Architecture for Agility is a technology-neutral logical architecture based on a disaggregated cloud-based model](https://github.com/wso2/reference-architecture/tree/master) - A proven approach to helping every development organization become an integration agile organization.
 - [CloudGeometry Reference Architecture](https://github.com/CloudGeometry/cg-devx-core) - CloudGeometry Reference Architecture for simplifying the creation and management of DevOps and Cloud resources.
