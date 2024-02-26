@@ -10,6 +10,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
   - [Contents](#contents)
   - [Articles and Presentations and Books](#articles-and-presentations-and-books)
   - [Newsletters, Chats and Podcasts](#newsletters-chats-and-podcasts)
+  - [Specifications](#specifications)
   - [Reference Architecture](#reference-architecture)
   - [Development](#development)
     - [Source Code Management](#source-code-management)
@@ -68,6 +69,23 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Platformengineering.org Slack](https://platformengineering.org/slack-rd)
 - [What's Platform Engineering? And How Does It Support DevOps?](https://www.listennotes.com/podcasts/the-new-stack/whats-platform-engineering-uoN5mXizUpP/)
 - [The New Stack Podcast](https://www.listennotes.com/podcasts/the-new-stack-podcast-the-new-stack-2tdxfCmwZr6/)
+
+## Specifications
+
+- [OAM: One Application Model](https://oam.dev/) - An open model for defining cloud native apps.
+- [Argonaut](https://www.argonaut.dev/) - Deploy apps and infrastructure on your cloud in minutes.
+- [Mia platform](https://mia-platform.eu/) - Don’t waste time setting up your platform, just push the code!.
+- [Humanitec](https://humanitec.com/) - Powering your Internal Developer Platform.
+- [devtron](https://devtron.ai/) - An open source Internal Developer Platform for Kubernetes.
+- [SaaS Backstage](https://roadie.io/ Roadie) - SaaS Backstage. Simple, safe, and more powerful.
+- [ZYMR](https://www.zymr.com/product-platform-engineering-services) - We excell at Platform engineering.   
+- [cycloid](https://www.cycloid.io/platform-engineering) -  Platform Engineering is DevOps with an action plan.  
+- [CTO: platform for platform teams](https://cto.ai/platform) -  The platform for platform teams : Easily implement your vision for the perfect developer platform without having to build everything from scratch. We’re more than just a CI/CD pipeline. We’re an intelligent automation platform for all of your development workflows.
+- [Kratix](https://github.com/syntasso/kratix)  - A framework for building Platform-as-a-Product.
+- (score)[https://score.dev) - One easy way to configure all your workload. Everywhere.
+- [kubevela](https://kubevela.io/) -  Make shipping applications more enjoyable. 
+- [qovery](https://www.qovery.com/) - Deliver Self-Service Infrastructure Faster.
+- [kusionstack](https://kusionstack.io/) - Open Tech Stack to build self-service, collaborative, reliable and sustainable Internal Developer Platform.
 
 ## Reference Architecture
 
