@@ -12,6 +12,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
   - [Newsletters, Chats and Podcasts](#newsletters-chats-and-podcasts)
   - [Specifications](#specifications)
   - [Reference Architecture](#reference-architecture)
+  - [AI powered platform tools](#ai-powered-platform-tools)
   - [Development](#development)
     - [Source Code Management](#source-code-management)
     - [Project Management \& Issue Tracking Software](#project-management--issue-tracking-software)
@@ -96,6 +97,15 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Azure Reference Architecture implementation](https://github.com/humanitec-architecture/reference-architecture-azure) - How to spin up your Humanitec Azure Reference Architecture.
 - [IBM Cloud Reference Architecture](https://github.com/IBM/ibm-cloud-reference-architectures) -  IBM Infrastructure Automation.
 - [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture) - A curated list of resources on software architecture.
+
+
+## AI powered platform tools
+
+- [InfraStack AI](https://infrastack.ai/) - AI-Powered Observability Copilot.
+- [AI-Powered Incident Management](https://www.transposit.com/) - A solution that combines an on-call AI copilot and end-to-end automation.
+- [Monolith](https://www.monolithai.com/) - No-code AI software built for engineers.
+- [Viktor](https://www.viktor.ai/) - Implement AI in your engineering workflow.
+  
 
 ## Development
 
@@ -376,6 +386,8 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Apache SkyWalking — Application Performance Monitoring](https://github.com/apache/skywalking)
 - [SigNoz- an open-source alternative to DataDog, NewRelic, etc.](https://github.com/signoz/signoz)
 - [Loki - low cost open source logging; self-hosted or SaaS](https://grafana.com/oss/loki/)
+- [SigLens](https://github.com/siglens/siglens)
+- 
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
 
