@@ -308,6 +308,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Helmfile](https://helmfile.readthedocs.io/en/latest/) - Deploy Kubernetes Helm Charts
 - [Crossplane](https://www.crossplane.io/)
 - [Packer](https://www.packer.io/)
+- [Kubestack](https://github.com/kbst/terraform-kubestack)
 
 ### Container
 
