@@ -4,6 +4,11 @@
 
 A curated list of Platform and Production Engineering tools - Maintained by [Saif Rajhi](https://twitter.com/RajhiSaifeddine)
 
+<div style="text-align: center;">
+  <img src="img/platform.jpeg" alt="Platform" style="display: block; margin: 0 auto;" />
+</div>
+
+
 ## Contents
 
 - [Awesome Platform Engineering Tools](#awesome-platform-engineering-tools-)
@@ -99,7 +104,6 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [IBM Cloud Reference Architecture](https://github.com/IBM/ibm-cloud-reference-architectures) -  IBM Infrastructure Automation.
 - [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture) - A curated list of resources on software architecture.
 
-
 ## AI powered platform tools
 
 - [InfraStack AI](https://infrastack.ai/) - AI-Powered Observability Copilot.
@@ -107,7 +111,6 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Monolith](https://www.monolithai.com/) - No-code AI software built for engineers.
 - [Viktor](https://www.viktor.ai/) - Implement AI in your engineering workflow.
   
-
 ## Development
 
 ### Source Code Management
@@ -389,7 +392,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [SigNoz- an open-source alternative to DataDog, NewRelic, etc.](https://github.com/signoz/signoz)
 - [Loki - low cost open source logging; self-hosted or SaaS](https://grafana.com/oss/loki/)
 - [SigLens](https://github.com/siglens/siglens)
-- 
+-
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
 
@@ -538,7 +541,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - To design healthy systems, divide and conquer. Split the problem into smaller parts.
 
 - Divide and conquer works recursively: divide the system into a hierarchy of simpler sub-systems and components.
-	
+
 _Corollary: When designing a system, there are more choices than a monolith vs. a thousand “microservices”._
 
 - The interface between parts is crucial. Aim for interfaces that are as small and simple as possible.
@@ -577,7 +580,6 @@ _Corollary: if you’re writing JSON or YAML by hand, you’re doing it wrong. T
 
 - There is a running theme here: separate the description of _what_ a system does from _how_ it does it. This is probably the single most important consideration when creating a system.
 
-
 ### Building systems
 
 - For a new system, get a walking skeleton deployed to production as soon as possible.
@@ -596,7 +598,6 @@ _Corollary: if you’re writing JSON or YAML by hand, you’re doing it wrong. T
 
 - In fact, follow all these practices from the very beginning of a new system. Retrofitting them later is much, much harder.
 
-
 ### Technology
 
 - Beware of hyped or fashionable technologies. The fundamentals of computer science and engineering don’t change much over time.
@@ -606,8 +607,6 @@ _Corollary: if you’re writing JSON or YAML by hand, you’re doing it wrong. T
 - Choose your data storage backend according to the shape of data, types of queries needed, patterns of writes vs. reads, performance requirements, and more. Every use case is different.
 
 - That said, PostgreSQL should be your default and you should only pick something else if you have a good reason.
-
-
 
 ## Stargazers over time
 
