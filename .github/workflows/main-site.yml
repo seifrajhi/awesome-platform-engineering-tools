@@ -13,6 +13,6 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install mkdocs-material mkdocs-static-i18n==1.2.0
-      - run: mkdir content/img && cp img/platform.jpeg content/img/platform.jpeg
+      - run: cp img/platform.jpeg content/img/platform.jpeg
       - run: cp README.md content/index.md
       - run: mkdocs gh-deploy --force

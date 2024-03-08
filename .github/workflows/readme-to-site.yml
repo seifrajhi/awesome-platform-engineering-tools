@@ -16,6 +16,6 @@ jobs:
           key: ${{ github.ref }}
           path: .cache
       - run: pip install mkdocs-material
-      - run: mkdir content/img && cp img/platform.jpeg content/img/platform.jpeg
+      - run: cp img/platform.jpeg content/img/platform.jpeg
       - run: cp README.md content/index.md
       - run: mkdocs gh-deploy --force
