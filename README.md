@@ -4,10 +4,9 @@
 
 A curated list of Platform and Production Engineering tools - Maintained by [Saif Rajhi](https://twitter.com/RajhiSaifeddine)
 
-<div style="text-align: center;">
-  <img src="img/platform.jpeg" alt="Platform" style="display: block; margin: 0 auto;" />
-</div>
-
+<figure markdown="span">
+  ![Image title](img/platform.jpeg){ width="300" }
+</figure>
 
 ## Contents
 
