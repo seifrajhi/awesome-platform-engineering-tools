@@ -48,7 +48,10 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 ## Articles and Presentations and Books
 
 - [Chances are you don't need a platform team](https://theprogressivearchitect.substack.com/p/chances-are-you-dont-need-a-platform) - How to minimize your platform and maximize user value by [@bschaatsbergen](https://github.com/bschaatsbergen) ![Blog Status](https://img.shields.io/badge/Blog-Active).
-- [How To Create A Complete Internal Developer Platform (IDP)?](https://www.youtube.com/watch?v=Rg98GoEHBd4) - It's time to build an internal developer platform (IDO) with Crossplane, Argo CD, SchemaHero, External Secrets Operator (ESO), GitHub Actions, Port, and a few others by [@vfarcic](https://gist.github.com/vfarcic) ![YouTube video views](https://img.shields.io/youtube/views/Rg98GoEHBd4)
+- [How To Create A Complete Internal Developer Platform (IDP)?](https://www.youtube.com/watch?v=Rg98GoEHBd4) - It's time to build an internal developer platform (IDO) with Crossplane, Argo CD, SchemaHero, External Secrets Operator (ESO), GitHub Actions, Port, and a few others by [@vfarcic](https://gist.github.com/vfarcic) ![YouTube video views](https://img.shields.io/youtube/views/Rg98GoEHBd4).
+- [What does it take to become a Platform Engineer?](https://www.youtube.com/watch?v=1RInP-77iyE) ![YouTube video views](https://img.shields.io/youtube/views/Rg98GoEHBd4).
+- [Platform Engineering How Did We Get Here ](https://www.youtube.com/watch?v=p6D-NYkVp9E) ![YouTube video views](https://img.shields.io/youtube/views/Rg98GoEHBd4).
+- [Can we say that Platform Engineering is DevSec(Rel)Ops?](https://www.youtube.com/watch?v=DhtYf05dvQY) ![YouTube video views](https://img.shields.io/youtube/views/Rg98GoEHBd4).
 - [The Practical Guide to Internal Developer Portals](https://www.getport.io/guide) - The next big thing in DevOps is platform engineering, and the main tool it uses is the internal developer portal. Read this guide to understand what can be done with portals and why they matter ![Blog Status](https://img.shields.io/badge/Blog-Active).
 - [Platform Engineering on Kubernetes](https://www.manning.com/books/platform-engineering-on-kubernetes) - A book that teaches how to build custom platforms on top of Kubernetes using open-source tools such as Dapr, Knative, Argo CD and Rollouts, and Tekton. It explores the tools and techniques needed to overcome common cloud-native challenges and is suitable for readers with different expertise levels ![Blog Status](https://img.shields.io/badge/Blog-Active).
 - [Build Your IDP at Light Speed with a Platform Reference Architecture](https://thenewstack.io/build-your-idp-at-light-speed-with-a-platform-reference-architecture/) - Now organizations have a standard, proven, scalable, and repeatable pattern for internal developer platforms that’s applicable to any tooling choice ![Blog Status](https://img.shields.io/badge/Blog-Active).
@@ -62,6 +65,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Platform Engineering story from a CTO: WHY, WHAT, HOW](https://medium.com/agorapulse-stories/platform-engineering-part-1-why-the-evolution-of-developer-cognitive-load-9f36f5cc2888)![Blog Status](https://img.shields.io/badge/Blog-Active).
 - [Create Preview Environments with Terraform, GitHub Actions, and Vercel](https://developer.hashicorp.com/terraform/tutorials/applications/preview-environments-vercel)![Blog Status](https://img.shields.io/badge/Blog-Active).
 - [Guide To Internal Developer Portals](https://www.getport.io/blog/guide-to-internal-developer-portals)![Blog Status](https://img.shields.io/badge/Blog-Active).
+- [Introducing KBOM – Kubernetes Bill of Materials](https://www.aquasec.com/blog/introducing-kbom-kubernetes-bill-of-materials/?trk=article-ssr-frontend-pulse_little-text-block) ![Blog Status](https://img.shields.io/badge/Blog-Active).
 
 ## Newsletters, Chats and Podcasts
 
@@ -76,6 +80,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Platformengineering.org Slack](https://platformengineering.org/slack-rd)
 - [What's Platform Engineering? And How Does It Support DevOps?](https://www.listennotes.com/podcasts/the-new-stack/whats-platform-engineering-uoN5mXizUpP/)
 - [The New Stack Podcast](https://www.listennotes.com/podcasts/the-new-stack-podcast-the-new-stack-2tdxfCmwZr6/)
+- [Platform Engineering with Nicholas Eberts](https://sites.libsyn.com/419861/platform-engineering-with-nicholas-eberts?trk=article-ssr-frontend-pulse_little-text-block)
 
 ## Specifications
 
