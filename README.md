@@ -3,10 +3,11 @@
 <!--lint ignore no-dead-urls-->
 
 A curated list of Platform and Production Engineering tools - Maintained by [Saif Rajhi](https://twitter.com/RajhiSaifeddine)
-
-<figure markdown="span">
-  ![Image title](img/platform.jpeg){ width="300" }
-</figure>
+<p align="center">
+   <a href="https://github.com/seifrajhi/awesome-platform-engineering-tools">
+     <img src="img/platform.jpeg" title=""awesome platform engineering" tools" alt=""awesome platform engineering" tools">
+   </a>
+</p>
 
 ## Contents
 
