@@ -281,6 +281,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Spinnaker](https://spinnaker.io/)
 - [Kluctl](https://kluctl.io) - Easily handle Kubernetes deployments of any size, complexity, and across various environments using the push based CLI or pull based GitOps.
 - [Walrus](https://www.seal.io/) - An open-source application management platform based on IaC tools including OpenTofu, Terraform and others. It helps platform engineers build golden paths for developers and empowers developers with self-service capabilities.
+- [dyrector.io](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
 
 ### Automation and Collaboration
 
