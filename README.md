@@ -98,6 +98,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [kubevela](https://kubevela.io/) - Make shipping applications more enjoyable.
 - [qovery](https://www.qovery.com/) - Deliver Self-Service Infrastructure Faster.
 - [kusionstack](https://kusionstack.io/) - Open Tech Stack to build self-service, collaborative, reliable and sustainable Internal Developer Platform.
+- [Cloud Native Operational Excellence (CNOE)](https://cnoe.io/) - CNOE will enable organizations to navigate tooling sprawl and technology churn by coordinating contributions, offering tools, and providing neutral guidance on technology choices to deliver IDPs.
 
 ## Reference Architecture
 
