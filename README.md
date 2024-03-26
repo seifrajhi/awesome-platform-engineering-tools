@@ -471,7 +471,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Backstage Software Catalog](https://backstage.io/)
 - [OpsLevel](https://www.opslevel.com/)
 - [KusionStack](https://www.kusionstack.io/)
-- [KusionStack](https://www.kubestack.com/)
+- [KubeStack](https://www.kubestack.com/)
 - [Radius app](https://radapp.io/) - Open-source, cloud-native, application platform that enables developers and the operators that support them to define, deploy, and collaborate on cloud-native applications across public clouds and private infrastructure.
 
 
