@@ -86,17 +86,14 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 
 - [OAM: One Application Model](https://oam.dev/) - An open model for defining cloud native apps.
 - [Argonaut](https://www.argonaut.dev/) - Deploy apps and infrastructure on your cloud in minutes.
-- [Mia platform](https://mia-platform.eu/) - Don’t waste time setting up your platform, just push the code!.
-- [Humanitec](https://humanitec.com/) - Powering your Internal Developer Platform.
 - [devtron](https://devtron.ai/) - An open source Internal Developer Platform for Kubernetes.
 - [SaaS Backstage Roadie](https://roadie.io/) - SaaS Backstage. Simple, safe, and more powerful.
 - [ZYMR](https://www.zymr.com/product-platform-engineering-services) - We excell at Platform engineering.
 - [cycloid](https://www.cycloid.io/platform-engineering) -  Platform Engineering is DevOps with an action plan.  
 - [CTO: platform for platform teams](https://cto.ai/platform) -  The platform for platform teams : Easily implement your vision for the perfect developer platform without having to build everything from scratch. We’re more than just a CI/CD pipeline. We’re an intelligent automation platform for all of your development workflows.
-- [Kratix](https://github.com/syntasso/kratix)  - A framework for building Platform-as-a-Product.
 - [score](https://score.dev) - One easy way to configure all your workload. Everywhere.
 - [kubevela](https://kubevela.io/) - Make shipping applications more enjoyable.
-- [qovery](https://www.qovery.com/) - Deliver Self-Service Infrastructure Faster.
+
 - [kusionstack](https://kusionstack.io/) - Open Tech Stack to build self-service, collaborative, reliable and sustainable Internal Developer Platform.
 - [Cloud Native Operational Excellence (CNOE)](https://cnoe.io/) - CNOE will enable organizations to navigate tooling sprawl and technology churn by coordinating contributions, offering tools, and providing neutral guidance on technology choices to deliver IDPs.
 
@@ -473,6 +470,13 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [KusionStack](https://www.kusionstack.io/)
 - [KubeStack](https://www.kubestack.com/)
 - [Radius app](https://radapp.io/) - Open-source, cloud-native, application platform that enables developers and the operators that support them to define, deploy, and collaborate on cloud-native applications across public clouds and private infrastructure.
+- [Mia platform](https://mia-platform.eu) - Don’t waste time setting up your platform, just push the code!.
+- [Humanitec](https://humanitec.com) - Powering your Internal Developer Platform.
+- [Appvia](https://www.appvia.io) - Increase Developer productivity with self-service.
+- [qovery](https://www.qovery.com) - Deliver Self-Service Infrastructure Faster.
+- [Mogenius](https://mogenius.com) - The Kubernetes Operations Platform.
+- [Nullstone](https://www.nullstone.io) - An easy-to-use developer platform that enables developers to quickly deploy any application.
+- [Kratix](https://github.com/syntasso/kratix)  - A framework for building Platform-as-a-Product.
 
 
 ## Miscellaneous and Related
