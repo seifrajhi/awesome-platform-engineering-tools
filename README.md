@@ -88,8 +88,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Argonaut](https://www.argonaut.dev/) - Deploy apps and infrastructure on your cloud in minutes.
 - [devtron](https://devtron.ai/) - An open source Internal Developer Platform for Kubernetes.
 - [SaaS Backstage Roadie](https://roadie.io/) - SaaS Backstage. Simple, safe, and more powerful.
-- [ZYMR](https://www.zymr.com/product-platform-engineering-services) - We excell at Platform engineering.
-- [cycloid](https://www.cycloid.io/platform-engineering) -  Platform Engineering is DevOps with an action plan.  
+- [ZYMR](https://www.zymr.com/product-platform-engineering-services) - We excell at Platform engineering. 
 - [CTO: platform for platform teams](https://cto.ai/platform) -  The platform for platform teams : Easily implement your vision for the perfect developer platform without having to build everything from scratch. We’re more than just a CI/CD pipeline. We’re an intelligent automation platform for all of your development workflows.
 - [score](https://score.dev) - One easy way to configure all your workload. Everywhere.
 - [kubevela](https://kubevela.io/) - Make shipping applications more enjoyable.
@@ -477,6 +476,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Mogenius](https://mogenius.com) - The Kubernetes Operations Platform.
 - [Nullstone](https://www.nullstone.io) - An easy-to-use developer platform that enables developers to quickly deploy any application.
 - [Kratix](https://github.com/syntasso/kratix)  - A framework for building Platform-as-a-Product.
+- [cycloid](https://www.cycloid.io/platform-engineering) -  Platform Engineering is DevOps with an action plan. 
 
 
 ## Miscellaneous and Related
