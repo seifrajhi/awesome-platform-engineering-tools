@@ -280,6 +280,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Kluctl](https://kluctl.io) - Easily handle Kubernetes deployments of any size, complexity, and across various environments using the push based CLI or pull based GitOps.
 - [Walrus](https://www.seal.io/) - An open-source application management platform based on IaC tools including OpenTofu, Terraform and others. It helps platform engineers build golden paths for developers and empowers developers with self-service capabilities.
 - [dyrector.io](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
+- [ketch](https://github.com/theketchio/) - Application delivery framework that facilitates the deployment and management of applications on Kubernetes using a simple command line interface.
 
 ### Automation and Collaboration
 
@@ -476,7 +477,9 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Mogenius](https://mogenius.com) - The Kubernetes Operations Platform.
 - [Nullstone](https://www.nullstone.io) - An easy-to-use developer platform that enables developers to quickly deploy any application.
 - [Kratix](https://github.com/syntasso/kratix)  - A framework for building Platform-as-a-Product.
-- [cycloid](https://www.cycloid.io/platform-engineering) -  Platform Engineering is DevOps with an action plan. 
+- [cycloid](https://www.cycloid.io/platform-engineering) -  Platform Engineering is DevOps with an action plan.
+- [Shipa](https://shipa.io/) - Shipa simplifies the way you deploy, secure, and manage applications across cloud native infrastructures by taking an application-centric approach.
+- [Upbound](https://www.upbound.io/) - The platform for platform teams.
 
 
 ## Miscellaneous and Related
