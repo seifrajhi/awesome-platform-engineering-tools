@@ -66,7 +66,8 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Create Preview Environments with Terraform, GitHub Actions, and Vercel](https://developer.hashicorp.com/terraform/tutorials/applications/preview-environments-vercel)![Blog Status](https://img.shields.io/badge/Blog-Active).
 - [Guide To Internal Developer Portals](https://www.getport.io/blog/guide-to-internal-developer-portals)![Blog Status](https://img.shields.io/badge/Blog-Active).
 - [Introducing KBOM – Kubernetes Bill of Materials](https://www.aquasec.com/blog/introducing-kbom-kubernetes-bill-of-materials/?trk=article-ssr-frontend-pulse_little-text-block) ![Blog Status](https://img.shields.io/badge/Blog-Active).
-- [Platform Engineering Is Not Just about the Tools](https://thenewstack.io/platform-engineering-is-not-just-about-the-tools/) - Platform engineering isn’t solely about the tools and components but also about alignment within the organization and a special focus on understanding user needs.
+- [Platform Engineering Is Not Just about the Tools](https://thenewstack.io/platform-engineering-is-not-just-about-the-tools/) - Platform engineering isn’t solely about the tools and components but also about alignment within the organization and a special focus on understanding user needs ![Blog Status](https://img.shields.io/badge/Blog-Active).
+- [Platform Engineering Rules the Day](https://thenewstack.io/platform-engineering-rules-the-day-eight-key-themes/) -  Eight Key Themes ![Blog Status](https://img.shields.io/badge/Blog-Active).
 
 ## Newsletters, Chats and Podcasts
 
