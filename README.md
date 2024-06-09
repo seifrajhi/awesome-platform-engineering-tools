@@ -482,6 +482,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [cycloid](https://www.cycloid.io/platform-engineering) -  Platform Engineering is DevOps with an action plan.
 - [Shipa](https://shipa.io/) - Shipa simplifies the way you deploy, secure, and manage applications across cloud native infrastructures by taking an application-centric approach.
 - [Upbound](https://www.upbound.io/) - The platform for platform teams.
+- [Kubero](https://github.com/kubero-dev/kubero) - A fully self-hosted Internal Developer Platform (IDP).
 
 
 ## Miscellaneous and Related
