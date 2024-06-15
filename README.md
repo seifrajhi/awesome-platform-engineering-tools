@@ -40,6 +40,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
     - [Incident Communication](#incident-communication)
   - [Security](#security)
   - [Internal Developer Portal](#internal-developer-portal)
+  - [Path to senior platform engineer handbook](#path-to-senior-platform-engineer-handbook)
   - [Miscellaneous and Related](#miscellaneous-and-related)
   - [Notions and concepts](#notions-and-concepts)
   - [Stargazers over time](#stargazers-over-time)
@@ -483,6 +484,61 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Shipa](https://shipa.io/) - Shipa simplifies the way you deploy, secure, and manage applications across cloud native infrastructures by taking an application-centric approach.
 - [Upbound](https://www.upbound.io/) - The platform for platform teams.
 - [Kubero](https://github.com/kubero-dev/kubero) - A fully self-hosted Internal Developer Platform (IDP).
+
+## Path to senior platform engineer handbook
+
+- [Platform Engineer Career Path](https://4dayweek.io/career-path/platform-engineer) - Everything you need to know to senior platform engineer and beyond.
+- [A Guide to shaping your Platform Engineer career](https://medium.com/platform-engineering-unleashed/the-rise-of-the-platform-engineer-a-guide-to-shaping-your-career-2f1348a47ef9) -  Platform Engineering career pathing.
+
+Platform Engineering serves as a distinct and valuable career path within an organization, complementing roles like DevOps and Site Reliability Engineering (SRE). While DevOps and SRE ensure smooth software development processes and reliable, scalable infrastructure respectively, Platform Engineers are entrusted with the unique responsibility of crafting the tools, processes, and platforms on which software development and operational tasks occur
+
+### Platform Engineering Career pathing
+
+![image](https://github.com/seifrajhi/awesome-platform-engineering-tools/assets/26981510/f6ce7cbd-b339-4aef-812f-163c07c9fbbe)
+
+
+
+![image](https://github.com/seifrajhi/awesome-platform-engineering-tools/assets/26981510/836098ac-d479-4bbc-8d2d-fb1de1253909)
+
+
+### Platform Engineering Roles Summary
+
+**Junior Platform Engineer:**  
+Handles routine tasks, troubleshooting, cloud configurations, and code reviews.  
+*Skills:* Basic scripting, cloud tech, containerization, Golang, Kubernetes.
+
+**Platform Engineer:**  
+Implements features, security, system scaling, and CI/CD tools.  
+*Skills:* Advanced cloud platforms, containerization, CI/CD, scripting, Golang, Kubernetes.
+
+**Senior Platform Engineer:**  
+Designs architecture, mentors, manages projects, ensures security.  
+*Skills:* System architecture, cloud computing, containerization, CI/CD, Golang, Kubernetes.
+
+**Lead Platform Engineer:**  
+Leads team, manages projects, strategic decisions, stakeholder interaction.  
+*Skills:* Systems design, project management, various tech stacks, Golang, Kubernetes.
+
+**Staff Platform Engineer:**  
+Sets technical direction, standards, leads projects, guides cloud services.  
+*Skills:* Multiple tech stacks, system design, performance, security, Golang, Kubernetes.
+
+**Principal Platform Engineer:**  
+Technical leader, sets vision, strategy, engineering processes, cloud strategy.  
+*Skills:* Broad tech expertise, strategic planning, complex engineering processes, Golang, Kubernetes.
+
+**Platform Engineering Manager:**  
+Oversees teams, strategic direction, performance, budgeting, alignment with business.  
+*Skills:* Technical background, budgeting, talent development, Golang, Kubernetes.
+
+**Senior Manager, Platform Engineering:**  
+Sets organization-wide strategy, manages teams, cross-team collaboration, cloud strategy.  
+*Skills:* Broad tech knowledge, business understanding, engineering management, Golang, Kubernetes.
+
+**Director of Platform Engineering:**  
+Sets vision, plans execution, tech decisions, team structure, budget management, strategic planning.  
+*Skills:* Vision setting, strategic planning, cloud strategy, Golang, Kubernetes.
+
 
 
 ## Miscellaneous and Related
