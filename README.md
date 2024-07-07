@@ -69,6 +69,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Introducing KBOM – Kubernetes Bill of Materials](https://www.aquasec.com/blog/introducing-kbom-kubernetes-bill-of-materials/?trk=article-ssr-frontend-pulse_little-text-block) ![Blog Status](https://img.shields.io/badge/Blog-Active).
 - [Platform Engineering Is Not Just about the Tools](https://thenewstack.io/platform-engineering-is-not-just-about-the-tools/) - Platform engineering isn’t solely about the tools and components but also about alignment within the organization and a special focus on understanding user needs ![Blog Status](https://img.shields.io/badge/Blog-Active).
 - [Platform Engineering Rules the Day](https://thenewstack.io/platform-engineering-rules-the-day-eight-key-themes/) -  Eight Key Themes ![Blog Status](https://img.shields.io/badge/Blog-Active).
+- [Wwhat is Platform Engineering and why it is important for better developer experience](https://medium.com/google-cloud/how-to-start-platform-engineering-practice-to-improve-developer-experience-48bc3e9c96de) - Some of the core tenets of Platform Engineering.
 
 ## Newsletters, Chats and Podcasts
 
