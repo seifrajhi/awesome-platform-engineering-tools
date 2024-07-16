@@ -100,6 +100,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [kusionstack](https://kusionstack.io/) - Open Tech Stack to build self-service, collaborative, reliable and sustainable Internal Developer Platform.
 - [Cloud Native Operational Excellence (CNOE)](https://cnoe.io/) - CNOE will enable organizations to navigate tooling sprawl and technology churn by coordinating contributions, offering tools, and providing neutral guidance on technology choices to deliver IDPs.
 - [OpenGitOps](https://opengitops.dev/) - OpenGitOps is a set of open-source standards, best practices, and community-focused education to help organizations adopt a structured, standardized approach to implementing GitOps.
+- [Open Platform for Enterprise AI](https://opea.dev) - An ecosystem orchestration framework to integrate performant GenAI technologies & workflows leading to quicker GenAI adoption and business value.
 
 ## Reference Architecture
 
