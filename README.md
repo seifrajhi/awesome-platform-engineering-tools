@@ -72,6 +72,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Wwhat is Platform Engineering and why it is important for better developer experience](https://medium.com/google-cloud/how-to-start-platform-engineering-practice-to-improve-developer-experience-48bc3e9c96de) - Some of the core tenets of Platform Engineering.
 - [5 myths about platform engineering: what it is and what it isn’t](https://cloud.google.com/blog/products/application-development/common-myths-about-platform-engineering) - Five common myths about platform engineering![Blog Status](https://img.shields.io/badge/Blog-Active).
 - [The ultimate guide to platform engineering](https://www.eficode.com/platform-engineering?utm_campaign=DevOps&utm_content=189322221&utm_medium=social&utm_source=linkedin&hss_channel=lcp-741299) - Stay competetive: embrace platform engineering ![Blog Status](https://img.shields.io/badge/Blog-Active).
+- [Top Platform Engineering KPIs You Need to Monitor](https://medium.com/beyond-the-code-by-typo/top-platform-engineering-kpis-you-need-to-monitor-b14a405b4eb7) - A curated list of top platform engineering KPIs that software teams must monitor.
 
 ## Newsletters, Chats and Podcasts
 
