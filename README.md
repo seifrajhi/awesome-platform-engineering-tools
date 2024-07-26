@@ -95,7 +95,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Argonaut](https://www.argonaut.dev/) - Deploy apps and infrastructure on your cloud in minutes.
 - [devtron](https://devtron.ai/) - An open source Internal Developer Platform for Kubernetes.
 - [SaaS Backstage Roadie](https://roadie.io/) - SaaS Backstage. Simple, safe, and more powerful.
-- [ZYMR](https://www.zymr.com/product-platform-engineering-services) - We excell at Platform engineering. 
+- [ZYMR](https://www.zymr.com/product-platform-engineering-services) - We excell at Platform engineering.
 - [CTO: platform for platform teams](https://cto.ai/platform) -  The platform for platform teams : Easily implement your vision for the perfect developer platform without having to build everything from scratch. We’re more than just a CI/CD pipeline. We’re an intelligent automation platform for all of your development workflows.
 - [score](https://score.dev) - One easy way to configure all your workload. Everywhere.
 - [kubevela](https://kubevela.io/) - Make shipping applications more enjoyable.
@@ -103,6 +103,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Cloud Native Operational Excellence (CNOE)](https://cnoe.io/) - CNOE will enable organizations to navigate tooling sprawl and technology churn by coordinating contributions, offering tools, and providing neutral guidance on technology choices to deliver IDPs.
 - [OpenGitOps](https://opengitops.dev/) - OpenGitOps is a set of open-source standards, best practices, and community-focused education to help organizations adopt a structured, standardized approach to implementing GitOps.
 - [Open Platform for Enterprise AI](https://opea.dev) - An ecosystem orchestration framework to integrate performant GenAI technologies & workflows leading to quicker GenAI adoption and business value.
+- [karpor: Intelligence for Kubernetes.](https://github.com/KusionStack/karpor) - World's most promising Kubernetes visualization Tool for developer and platform engineering teams.
 
 ## Reference Architecture
 
@@ -501,10 +502,7 @@ Platform Engineering serves as a distinct and valuable career path within an org
 
 ![image](https://github.com/seifrajhi/awesome-platform-engineering-tools/assets/26981510/f6ce7cbd-b339-4aef-812f-163c07c9fbbe)
 
-
-
 ![image](https://github.com/seifrajhi/awesome-platform-engineering-tools/assets/26981510/836098ac-d479-4bbc-8d2d-fb1de1253909)
-
 
 ### Platform Engineering Roles Summary
 
@@ -543,8 +541,6 @@ Sets organization-wide strategy, manages teams, cross-team collaboration, cloud 
 **Director of Platform Engineering:**  
 Sets vision, plans execution, tech decisions, team structure, budget management, strategic planning.  
 *Skills:* Vision setting, strategic planning, cloud strategy, Golang, Kubernetes.
-
-
 
 ## Miscellaneous and Related
 
@@ -623,7 +619,7 @@ Sets vision, plans execution, tech decisions, team structure, budget management,
 
 - Divide and conquer works recursively: divide the system into a hierarchy of simpler sub-systems and components.
 
-_Corollary: When designing a system, there are more choices than a monolith vs. a thousand “microservices”._
+- _Corollary: When designing a system, there are more choices than a monolith vs. a thousand “microservices”._
 
 - The interface between parts is crucial. Aim for interfaces that are as small and simple as possible.
 
@@ -649,7 +645,7 @@ _Corollary: When designing a system, there are more choices than a monolith vs. 
 
 - At the risk of repeating myself: everything is code.
 
-_Corollary: if you’re writing JSON or YAML by hand, you’re doing it wrong. These are formats for the machines, not for humans to produce and consume. (Don’t despair though: most people do this, I do too, so you’re not alone! Let's just try to aim for something better)._
+- _Corollary: if you’re writing JSON or YAML by hand, you’re doing it wrong. These are formats for the machines, not for humans to produce and consume. (Don’t despair though: most people do this, I do too, so you’re not alone! Let's just try to aim for something better)._
 
 - The physical manifestation of your system (e.g. choices of storage, messaging, RPC technology, packaging and scheduling etc) should usually be an implementation detail, not the main aspect of the system that the rest is built around.
 
