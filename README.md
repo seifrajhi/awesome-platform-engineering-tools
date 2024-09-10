@@ -73,6 +73,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [5 myths about platform engineering: what it is and what it isn’t](https://cloud.google.com/blog/products/application-development/common-myths-about-platform-engineering) - Five common myths about platform engineering![Blog Status](https://img.shields.io/badge/Blog-Active).
 - [The ultimate guide to platform engineering](https://www.eficode.com/platform-engineering?utm_campaign=DevOps&utm_content=189322221&utm_medium=social&utm_source=linkedin&hss_channel=lcp-741299) - Stay competetive: embrace platform engineering ![Blog Status](https://img.shields.io/badge/Blog-Active).
 - [Top Platform Engineering KPIs You Need to Monitor](https://medium.com/beyond-the-code-by-typo/top-platform-engineering-kpis-you-need-to-monitor-b14a405b4eb7) - A curated list of top platform engineering KPIs that software teams must monitor ![Blog Status](https://img.shields.io/badge/Blog-Active).
+- [Can ops actually do product management](https://newsletter.cote.io/p/platform-engineering-problems-can) - Platform engineering problems: can ops actually do product management?.
 
 ## Newsletters, Chats and Podcasts
 
@@ -136,6 +137,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Perforce Helix Core](https://www.perforce.com/products/helix-core/)
 - [Subversion (SVN)](https://subversion.apache.org/)
 - [Nvim](https://neovim.io/) - hyperextensible Vim-based text editor.
+- [Unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
 
 ### Project Management & Issue Tracking Software
 
