@@ -15,6 +15,7 @@ theme:
     - content.code.copy
     - announce.dismiss
     - header.autohide
+    - navigation.footer
   palette:
     - scheme: default
       toggle:
