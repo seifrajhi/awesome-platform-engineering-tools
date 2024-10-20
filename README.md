@@ -20,6 +20,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
   - [AI powered platform tools](#ai-powered-platform-tools)
   - [Development](#development)
     - [Source Code Management](#source-code-management)
+    - [Feature flags and change management](#feature-flags-and-change-management)
     - [Project Management \& Issue Tracking Software](#project-management--issue-tracking-software)
     - [Bug / Defect Tracking Software](#bug--defect-tracking-software)
     - [Code Editors and IDE's](#code-editors-and-ides)
@@ -143,6 +144,20 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Subversion (SVN)](https://subversion.apache.org/)
 - [Nvim](https://neovim.io/) - hyperextensible Vim-based text editor.
 - [Unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
+  
+### Feature flags and change management
+
+- [OpenFeature: community-developed specification to standardise feature flag management](https://github.com/open-feature#welcome-to-the-openfeature-project-)
+- [Launchdarkly: feature flags paid service](https://launchdarkly.com/)
+- [Git Guide: Generate A Changelog From Your Git Commit Messages](https://mokkapps.de/blog/how-to-automatically-generate-a-helpful-changelog-from-your-git-commit-messages/)
+- [Update NPM, pip, Gem etc. dependencies](https://github.com/renovatebot/renovate)
+- [Upgrade microservices](https://www.jhipster.tech/upgrading-an-application/#-upgrading-an-application)
+- [Upgrade JavaScript or TypeScript codebases](https://github.com/facebook/jscodeshift)
+- [Git Qovery: PR/Commit Preview Environments Platform (paid)](https://hub.qovery.com/guides/tutorial/getting-started-with-preview-environments-on-aws-for-beginners/)
+- [Bunnyshell: production replica environments for dev, QA and Staging](https://www.bunnyshell.com/)
+- [LocalStack: A fully functional local AWS cloud stack](https://github.com/localstack/localstack)
+- [Gitpod: cloud development environments](https://www.gitpod.io/)
+- [okteto: spin up dev and preview environments](https://www.okteto.com/)
 
 ### Project Management & Issue Tracking Software
 
