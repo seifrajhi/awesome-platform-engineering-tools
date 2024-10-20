@@ -39,7 +39,7 @@ markdown_extensions:
 
 nav:
   - "Awesome Platform Engineering Tools": "index.md"
-	- "Platform engineering and Cloud blogs": "https://seifrajhi.github.io/"
+  - "Platform engineering and Cloud blogs": "https://seifrajhi.github.io/"
   
 extra:
   social:
