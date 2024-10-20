@@ -13,7 +13,6 @@ theme:
     - tabs
     - navigation.tabs
     - content.code.copy
-    - announce.dismiss
     - header.autohide
     - navigation.footer
   palette:
