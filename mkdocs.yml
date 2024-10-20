@@ -11,6 +11,7 @@ theme:
     repo: fontawesome/brands/github
   features:
     - tabs
+    - navigation.tabs
     - content.code.copy
     - announce.dismiss
     - header.autohide
