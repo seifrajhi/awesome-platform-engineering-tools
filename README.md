@@ -513,6 +513,8 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Shipa](https://shipa.io/) - Shipa simplifies the way you deploy, secure, and manage applications across cloud native infrastructures by taking an application-centric approach.
 - [Upbound](https://www.upbound.io/) - The platform for platform teams.
 - [Kubero](https://github.com/kubero-dev/kubero) - A fully self-hosted Internal Developer Platform (IDP).
+- [Roadie Internal Developer Portal](https://roadie.io) - SaaS-based Internal Developer Portal.
+
 
 ## Path to senior platform engineer handbook
 
