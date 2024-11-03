@@ -47,6 +47,11 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
   - [Stargazers over time](#stargazers-over-time)
   - [Licence](#licence)
 
+
+<img width="1274" alt="image" src="https://github.com/user-attachments/assets/92219814-b0d3-44e7-ae6d-0c5719c8959e">
+
+
+
 ## Articles and Presentations and Books
 
 - [Chances are you don't need a platform team](https://theprogressivearchitect.substack.com/p/chances-are-you-dont-need-a-platform) - How to minimize your platform and maximize user value by [@bschaatsbergen](https://github.com/bschaatsbergen) ![Blog Status](https://img.shields.io/badge/Blog-Active).
