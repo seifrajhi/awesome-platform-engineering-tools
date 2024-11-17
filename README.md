@@ -93,6 +93,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
   
 ## Newsletters, Chats and Podcasts
 
+- [Platform Engineering Certification](https://www.cncf.io/announcements/2024/11/15/cloud-native-computing-foundation-expands-certification-to-platform-engineering-and-more/) - Cloud Native Computing Foundation Expands Certification to Platform Engineering.
 - [Platform Engineering](https://platformengineering.org)
 - [Internal Developer Platform](https://internaldeveloperplatform.org)
 - [The New Stack](https://thenewstack.io/)
