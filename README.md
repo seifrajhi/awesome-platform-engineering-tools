@@ -306,7 +306,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [ElectricFlow](http://electric-cloud.com/products/electricflow/)
 - [Octopus Deploy](https://octopus.com/)
 - [IBM UrbanCode](http://www-03.ibm.com/software/products/en/ucdep)
-- [DeployBot](https://deploybot.com/)
+- [DeployHQ](https://www.deployhq.com/)
 - [Shippable](https://app.shippable.com/)
 - [Codar Continuous Delivery](https://www.microfocus.com/en-us/products/codar-continuous-deployment/overview)
 - [Wercker](https://app.wercker.com/)
