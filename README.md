@@ -90,6 +90,8 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Platform Engineering Podcast](https://www.platformengineeringpod.com/) - This podcast caters to professionals and enthusiasts passionate about the intricacies of platform architecture, cloud operations, and scaling DevOps practices ![podcast Status](https://img.shields.io/badge/podcast-active).
 - [A brief history of Platform Engineering](https://orkohunter.net/blog/a-brief-history-of-platform-engineering/) - How the shift to cloud native applications gave rise to a new practice called Platform engineering ![Blog Status](https://img.shields.io/badge/Blog-Active).
 - [Platform Engineering Essential Tools](https://www.solo.io/blog/platform-engineering-essential-tools/) - Key Platform Engineering tools ![Blog Status](https://img.shields.io/badge/Blog-Active).
+- [Platform as a Product](https://www.syntasso.io/platform-as-a-product) - Platform as a Product: What, Why, and How? ![Blog Status](https://img.shields.io/badge/Blog-Active).
+- [State of Platform Engineering](https://thenewstack.io/the-2024-state-of-platform-engineering-fledgling-at-best/) - The 2024 State of Platform Engineering? Fledgling at Best ![Blog Status](https://img.shields.io/badge/Blog-Active).
   
 ## Newsletters, Chats and Podcasts
 
