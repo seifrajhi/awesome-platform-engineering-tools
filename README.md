@@ -92,6 +92,8 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Platform Engineering Essential Tools](https://www.solo.io/blog/platform-engineering-essential-tools/) - Key Platform Engineering tools ![Blog Status](https://img.shields.io/badge/Blog-Active).
 - [Platform as a Product](https://www.syntasso.io/platform-as-a-product) - Platform as a Product: What, Why, and How? ![Blog Status](https://img.shields.io/badge/Blog-Active).
 - [State of Platform Engineering](https://thenewstack.io/the-2024-state-of-platform-engineering-fledgling-at-best/) - The 2024 State of Platform Engineering? Fledgling at Best ![Blog Status](https://img.shields.io/badge/Blog-Active).
+- [4000 microservices, 8 million customers, 1 Internal Developer Platform](https://www.youtube.com/live/eDbQ18Fx0qU)  The story of how Sicredi, a credit union, with over 8 million clients, 2700 branches, and over 45,000 employees embarked on building an Internal Developer Platform to serve its thousands of developers- ![YouTube video views](https://img.shields.io/youtube/views/Rg98GoEHBd4).
+- [Platform Engineering: A Workshop to Help Map Your Strategy](https://thenewstack.io/platform-engineering-a-workshop-to-help-map-your-strategy/) - Stakeholders from across an organization can decide together what their internal developer platform should do ![Blog Status](https://img.shields.io/badge/Blog-Active).
   
 ## Newsletters, Chats and Podcasts
 
