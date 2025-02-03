@@ -370,6 +370,8 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Packer](https://www.packer.io/)
 - [Kubestack](https://github.com/kbst/terraform-kubestack)
 - [Shipyard](https://shipyard.build/) - Ephemeral environment management platform.
+- [Meshery](https://meshery.io) - A open source cloud native manager that enables the design and management of all Kubernetes-based infrastructure and applications (multi-cloud).
+- [Kanvas](https://kanvas.new) - A collaborative tool with visual interface for designing and operating infrastructure.
 
 ### Container
 
