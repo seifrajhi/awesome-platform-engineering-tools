@@ -419,6 +419,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [MongoDB Cloud Manager](https://www.mongodb.com/cloud/cloud-manager)
 - [NewRelic](https://newrelic.com/)
 - [Papertrail](https://papertrailapp.com/)
+- [Phare.io](https://phare.io/products/uptime) - Uptime, certificates, incidents, alerts, and status pages
 - [Pingdom](https://tools.pingdom.com/)
 - [ServerDensity](https://www.serverdensity.com/)
 - [Zabbix](https://www.zabbix.com/)
