@@ -144,6 +144,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 
 ## AI powered platform tools
 
+- [AdaL](https://sylph.ai/) - Self-evolving AI coding agent that learns your codebase patterns. Runs locally, keeps code private, and lets models collaborate (Claude, GPT, Gemini). Built on open-source [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow).
 - [InfraStack AI](https://infrastack.ai/) - AI-Powered Observability Copilot.
 - [AI-Powered Incident Management](https://www.transposit.com/) - A solution that combines an on-call AI copilot and end-to-end automation.
 - [Monolith](https://www.monolithai.com/) - No-code AI software built for engineers.
