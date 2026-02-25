@@ -431,6 +431,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Mimir](https://grafana.com/oss/mimir/)
 - [Hydrozen.io](https://hydrozen.io) - Uptime monitoring & Statuspages
 - [Steampipe.io](https://steampipe.io) - Universal SQL interface to any cloud API
+- [SSL Certificate Monitor](https://github.com/brancogao/ssl-certificate-monitor) - Open-source SSL/TLS certificate expiry monitoring tool
 - [Better Stack](https://betterstack.com/)
 - [Netdata](https://netdata.cloud)
 - [DoctorGPT](https://github.com/ingyamilmolinar/doctorgpt) - Brings GPT into production for application log error monitoring
@@ -476,6 +477,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Rootly](https://www.rootly.io)
 - [Grafana OnCall](https://grafana.com/oss/oncall/)
 - [Keep - CLI for alerting](https://github.com/keephq/keep)
+- [SSL Certificate Monitor](https://github.com/brancogao/ssl-certificate-monitor) - Open-source SSL/TLS certificate expiry monitoring tool
 - [Better Stack](https://betterstack.com/)
 - [Everbridge](https://www.everbridge.com/)
 - [Moogsoft](https://www.moogsoft.com/)
