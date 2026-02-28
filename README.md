@@ -131,6 +131,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [OpenGitOps](https://opengitops.dev/) - OpenGitOps is a set of open-source standards, best practices, and community-focused education to help organizations adopt a structured, standardized approach to implementing GitOps.
 - [Open Platform for Enterprise AI](https://opea.dev) - An ecosystem orchestration framework to integrate performant GenAI technologies & workflows leading to quicker GenAI adoption and business value.
 - [karpor: Intelligence for Kubernetes.](https://github.com/KusionStack/karpor) - World's most promising Kubernetes visualization Tool for developer and platform engineering teams.
+- [DRF: Decision Reasoning Format](https://github.com/reasoning-formats/reasoning-formats) - A vendor-neutral, machine-readable YAML/JSON format for documenting platform and infrastructure decisions with explicit reasoning, assumptions, and trade-offs.
 
 ## Reference Architecture
 
