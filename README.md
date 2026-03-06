@@ -438,6 +438,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Datadog](https://www.datadoghq.com/)
 - [Elastic APM](https://www.elastic.co/apm)
 - [Healthchecks.io](https://healthchecks.io)
+- [API Status Check](https://apistatuscheck.com/) - Monitor uptime and performance of 3rd-party APIs and SaaS services. Free forever plan with 5-minute checks.
 - [OnlineOrNot](https://onlineornot.com/) - Uptime monitoring for websites, APIs, and cron jobs, with integrated status pages.
 - [ELK Stack (Elasticsearch, Logstash, Kibana)](https://www.elastic.co/elastic-stack)
 - [VictoriaLogs database for logs from VictoriaMetrics](https://docs.victoriametrics.com/victorialogs/)
