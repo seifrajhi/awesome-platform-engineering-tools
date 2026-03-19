@@ -429,6 +429,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Chaos Genius](https://www.chaosgenius.io/)
 - [Thanos](https://thanos.io/)
 - [Mimir](https://grafana.com/oss/mimir/)
+- [API Status Check](https://apistatuscheck.com) - Real-time status monitoring for 200+ third-party APIs and services (AWS, Stripe, OpenAI, GitHub, etc.)
 - [Hydrozen.io](https://hydrozen.io) - Uptime monitoring & Statuspages
 - [Steampipe.io](https://steampipe.io) - Universal SQL interface to any cloud API
 - [Better Stack](https://betterstack.com/)
