@@ -339,6 +339,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Atlantis](https://www.runatlantis.io/) — Open Source Terraform Pull Request Automation tool.
 - [Env0](https://www.env0.com/) — Automate and Manage IaC at Scale, With Confidence
 - [Spacelift](https://spacelift.io/) — Spacelift is a sophisticated CI/CD platform for OpenTofu, Terraform, Terragrunt, CloudFormation, Pulumi, Kubernetes, and Ansible.
+- [Stategraph](https://stategraph.com) — Terraform and OpenTofu state backend with parallel plans, resource-level locking, and SQL-queryable state.
 - [Terramate](https://terramate.io/) — Terramate adds powerful capabilities such as code generation, stacks, orchestration, change detection, data sharing and more to Terraform.
 - [Terrateam](https://terrateam.io/) — Infrastructure as Code CI/CD for GitHub
 - [OTF](https://docs.otf.ninja/latest/) — An open source alternative to terraform enterprise.
