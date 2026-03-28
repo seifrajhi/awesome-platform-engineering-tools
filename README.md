@@ -9,6 +9,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
    </a>
 </p>
 
+- [ReleaseRun](releaserun.com) — ReleaseRun — release monitoring and dependency health tools for platform engineering teams — free K8s deprecation checker, Helm compatibility checker, and dependency EOL scanner
 ## Contents
 
 - [Awesome Platform Engineering Tools](#awesome-platform-engineering-tools-)
