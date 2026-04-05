@@ -149,6 +149,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Monolith](https://www.monolithai.com/) - No-code AI software built for engineers.
 - [Viktor](https://www.viktor.ai/) - Implement AI in your engineering workflow.
 - [initializ.ai](https://www.initializ.ai/) - AI-Driven Unified DevSecOps Platform.
+- [Kube Foundry](https://github.com/kube-foundry/kube-foundry) - Kubernetes operator that runs AI coding agents (Claude Code, Codex, Cursor, Gemini, OpenCode) in sandboxed pods.
   
 ## Development
 
