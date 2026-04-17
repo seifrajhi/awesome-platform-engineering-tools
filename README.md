@@ -149,6 +149,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Monolith](https://www.monolithai.com/) - No-code AI software built for engineers.
 - [Viktor](https://www.viktor.ai/) - Implement AI in your engineering workflow.
 - [initializ.ai](https://www.initializ.ai/) - AI-Driven Unified DevSecOps Platform.
+- [AgentsMesh](https://agentsmesh.ai) - Self-hostable AI Agent Workforce Platform for platform teams managing AI coding agents at scale. Provisions remote AI workstations (AgentPods) with PTY sandbox + git worktree isolation, multi-agent collaboration via channels, built-in Kanban, per-pod MCP server, multi-Git (GitHub/GitLab/Gitee), multi-tenant (Org > Team > User), SSO/RBAC/audit, air-gapped, BYOK.
   
 ## Development
 
