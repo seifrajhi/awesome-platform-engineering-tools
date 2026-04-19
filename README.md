@@ -149,6 +149,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Monolith](https://www.monolithai.com/) - No-code AI software built for engineers.
 - [Viktor](https://www.viktor.ai/) - Implement AI in your engineering workflow.
 - [initializ.ai](https://www.initializ.ai/) - AI-Driven Unified DevSecOps Platform.
+- [Qovery](https://www.qovery.com/) - Enterprise Kubernetes management platform with AI Agent Skill and MCP Server. Deploy applications, databases, Helm charts, and Terraform modules on AWS, GCP, Azure, and Scaleway. Cost-efficient GPU scheduling for AI/ML workloads. [Agent Skill](https://github.com/Qovery/qovery-skills) | [MCP Server](https://mcp.qovery.com/mcp).
   
 ## Development
 
