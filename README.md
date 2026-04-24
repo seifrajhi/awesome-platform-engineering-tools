@@ -149,6 +149,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Monolith](https://www.monolithai.com/) - No-code AI software built for engineers.
 - [Viktor](https://www.viktor.ai/) - Implement AI in your engineering workflow.
 - [initializ.ai](https://www.initializ.ai/) - AI-Driven Unified DevSecOps Platform.
+- [KubeStellar Console](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes dashboard for platform teams, with LLM-driven operations, CNCF project integrations, and real-time observability across edge and cloud clusters.
   
 ## Development
 
