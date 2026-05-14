@@ -534,6 +534,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Upbound](https://www.upbound.io/) - The platform for platform teams.
 - [Kubero](https://github.com/kubero-dev/kubero) - A fully self-hosted Internal Developer Platform (IDP).
 - [Roadie Internal Developer Portal](https://roadie.io) - SaaS-based Internal Developer Portal.
+- [AgentTier](https://github.com/agenttier/agenttier) - Kubernetes-native platform that provisions isolated, persistent sandboxes for human developers and AI agents through a Sandbox CRD, with hierarchical governance, optional gVisor isolation, browser terminal, and a streaming agent-mode REST API.
 
 
 ## Path to senior platform engineer handbook
