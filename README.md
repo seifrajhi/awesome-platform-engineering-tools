@@ -450,6 +450,8 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [SigNoz- an open-source alternative to DataDog, NewRelic, etc.](https://github.com/signoz/signoz)
 - [Loki - low cost open source logging; self-hosted or SaaS](https://grafana.com/oss/loki/)
 - [SigLens](https://github.com/siglens/siglens)
+- [Middleware](https://middleware.io/)
+
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
 
