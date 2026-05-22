@@ -149,6 +149,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Monolith](https://www.monolithai.com/) - No-code AI software built for engineers.
 - [Viktor](https://www.viktor.ai/) - Implement AI in your engineering workflow.
 - [initializ.ai](https://www.initializ.ai/) - AI-Driven Unified DevSecOps Platform.
+- [Paralleliq](https://www.paralleliq.ai) - Model-aware GPU control plane for AI infrastructure. Detects GPU waste, quantifies cost impact in dollars, and delivers actionable recommendations with human-in-the-loop approval workflows.
   
 ## Development
 
