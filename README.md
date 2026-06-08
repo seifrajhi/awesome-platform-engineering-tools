@@ -149,6 +149,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Monolith](https://www.monolithai.com/) - No-code AI software built for engineers.
 - [Viktor](https://www.viktor.ai/) - Implement AI in your engineering workflow.
 - [initializ.ai](https://www.initializ.ai/) - AI-Driven Unified DevSecOps Platform.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - MCP server for AI agent trust scoring on Solana. Verify agent wallet identity and issue trust receipts for x402 micropayments. Remote streamable-http, 4 free tools.
   
 ## Development
 
