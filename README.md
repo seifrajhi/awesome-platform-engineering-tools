@@ -524,7 +524,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Radius app](https://radapp.io/) - Open-source, cloud-native, application platform that enables developers and the operators that support them to define, deploy, and collaborate on cloud-native applications across public clouds and private infrastructure.
 - [Mia platform](https://mia-platform.eu) - Don’t waste time setting up your platform, just push the code!.
 - [Humanitec](https://humanitec.com) - Powering your Internal Developer Platform.
-- [Fortem](https://fortem.dev) - Self-hosted AI-native Kubernetes Internal Developer Platform.
+- [Fortem](https://fortem.dev) - Control plane for AWS ECS Fargate fleets: developer self-service environments, fleet-wide visibility, and scheduling.
 - [Appvia](https://www.appvia.io) - Increase Developer productivity with self-service.
 - [qovery](https://www.qovery.com) - Deliver Self-Service Infrastructure Faster.
 - [Mogenius](https://mogenius.com) - The Kubernetes Operations Platform.
