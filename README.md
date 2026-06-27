@@ -131,6 +131,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [OpenGitOps](https://opengitops.dev/) - OpenGitOps is a set of open-source standards, best practices, and community-focused education to help organizations adopt a structured, standardized approach to implementing GitOps.
 - [Open Platform for Enterprise AI](https://opea.dev) - An ecosystem orchestration framework to integrate performant GenAI technologies & workflows leading to quicker GenAI adoption and business value.
 - [karpor: Intelligence for Kubernetes.](https://github.com/KusionStack/karpor) - World's most promising Kubernetes visualization Tool for developer and platform engineering teams.
+- [Ota](https://github.com/ota-run/ota) - Open-source repo execution governance with machine-readable contracts for setup, verification, workflows, runtime proof, and agent-safe execution.
 
 ## Reference Architecture
 
