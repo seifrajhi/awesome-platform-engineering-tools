@@ -167,6 +167,8 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
   
 ### Feature flags and change management
 
+- [Tombstone](https://github.com/sairam0424/Tombstone) - Self-hosted production intelligence layer for 5,000+ feature flags — blast-radius gates, circuit-breaker auto-rollback, causal incident correlation, and OpenFeature-compatible. Go + Python + TypeScript. MIT.
+
 - [OpenFeature: community-developed specification to standardise feature flag management](https://github.com/open-feature#welcome-to-the-openfeature-project-)
 - [Launchdarkly: feature flags paid service](https://launchdarkly.com/)
 - [Git Guide: Generate A Changelog From Your Git Commit Messages](https://mokkapps.de/blog/how-to-automatically-generate-a-helpful-changelog-from-your-git-commit-messages/)
