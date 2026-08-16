@@ -143,6 +143,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture) - A curated list of resources on software architecture.
 
 ## AI powered platform tools
+- [Canopy](https://canopy.8starlabs.com/) - AI-ready architecture mapping for engineering teams, with GitHub imports, service dependencies, ownership, cost context, and exports for coding agents.
 
 - [InfraStack AI](https://infrastack.ai/) - AI-Powered Observability Copilot.
 - [AI-Powered Incident Management](https://www.transposit.com/) - A solution that combines an on-call AI copilot and end-to-end automation.
