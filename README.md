@@ -483,6 +483,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [AlertManager](https://prometheus.io/docs/alerting/latest/alertmanager/)
 - [rootly](https://rootly.com) - Manage incidents directly from Slack
 - [Pagerly](https://pagerly.io) - Manage Oncalls and Incidents on Slack
+- [Spike](https://spike.sh) - Incident management and on-call alerting.
 
 ### IT Service Management
 
