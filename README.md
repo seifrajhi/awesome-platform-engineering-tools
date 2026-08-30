@@ -251,6 +251,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Gatling](https://gatling.io/)
 - [Cypress](https://www.cypress.io/)
 - [TestRail](https://www.gurock.com/testrail/)
+- [Agent QA](https://github.com/vostride/agent-qa) - Source-available CLI and MCP tool for natural-language web and mobile regression testing with execution memory, UI-change adaptation, and reviewable evidence. Licensed under FSL-1.1-ALv2, converting to Apache-2.0 after two years.
 
 ## Continuous Integration
 
