@@ -505,6 +505,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Atlassian Statuspages](https://www.atlassian.com/software/statuspage)
 - [Instatus Statuspages](https://instatus.com) - Quick and beautiful status page.
 - [Cachet](https://cachethq.io/)
+- [InBrief](https://inbrief.sh) - Hosted status pages and incident communication with HTTP, TCP and DNS monitors, subscriber updates by email, Slack, Discord, Telegram and RSS, and per-feature pricing.
 
 ## Security
 
