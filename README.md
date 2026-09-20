@@ -544,6 +544,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 Platform Engineering serves as a distinct and valuable career path within an organization, complementing roles like DevOps and Site Reliability Engineering (SRE). While DevOps and SRE ensure smooth software development processes and reliable, scalable infrastructure respectively, Platform Engineers are entrusted with the unique responsibility of crafting the tools, processes, and platforms on which software development and operational tasks occur
 
 ### Platform Engineering Career pathing
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — record & replay AI coding-agent runs offline.
 
 ![image](https://github.com/seifrajhi/awesome-platform-engineering-tools/assets/26981510/f6ce7cbd-b339-4aef-812f-163c07c9fbbe)
 
