@@ -251,6 +251,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Gatling](https://gatling.io/)
 - [Cypress](https://www.cypress.io/)
 - [TestRail](https://www.gurock.com/testrail/)
+- [Keploy](https://keploy.io/) - Open-source API testing platform that automatically generates test cases and data mocks from real traffic — no coding required.
 
 ## Continuous Integration
 
