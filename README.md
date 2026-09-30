@@ -533,6 +533,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Shipa](https://shipa.io/) - Shipa simplifies the way you deploy, secure, and manage applications across cloud native infrastructures by taking an application-centric approach.
 - [Upbound](https://www.upbound.io/) - The platform for platform teams.
 - [Kubero](https://github.com/kubero-dev/kubero) - A fully self-hosted Internal Developer Platform (IDP).
+- [Peon](https://peon.sh/) - Open-source self-hosted Docker PaaS with project RBAC, audit logs, and MCP — Coolify/Vercel alternative.
 - [Roadie Internal Developer Portal](https://roadie.io) - SaaS-based Internal Developer Portal.
 
 
