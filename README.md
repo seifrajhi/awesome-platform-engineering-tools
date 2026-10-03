@@ -380,6 +380,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Podman](https://podman.io/)
 - [containerd](https://containerd.io/)
 - [OpenShift](https://www.openshift.com/)
+- [LayerSmith](https://github.com/r0lfi/layersmith) - Build OCI container images through a self-hosted web UI with Docker or Podman, editable Containerfiles, and air-gap bundles.
 
 ### Container Registry
 
