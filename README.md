@@ -332,6 +332,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Walrus](https://www.seal.io/) - An open-source application management platform based on IaC tools including OpenTofu, Terraform and others. It helps platform engineers build golden paths for developers and empowers developers with self-service capabilities.
 - [dyrector.io](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
 - [ketch](https://github.com/theketchio/) - Application delivery framework that facilitates the deployment and management of applications on Kubernetes using a simple command line interface.
+- [Easypanel](https://easypanel.io/) - Self-hosted Docker platform for deploying applications and databases on your own server.
 
 ### Automation and Collaboration
 
