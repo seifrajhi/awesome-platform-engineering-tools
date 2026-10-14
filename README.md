@@ -306,6 +306,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Visual Studio Team Services](https://www.visualstudio.com/team-services/)
 - [Go CD](https://www.gocd.org/)
 - [Pipelight](https://pipelight.dev/)
+- [Latchkey](https://latchkey.dev) - Self-healing GitHub Actions runners that repair transient failures mid-run, with a CLI and MCP server so coding agents can run, read and fix CI.
 
 ## Continuous Delivery
 
