@@ -393,6 +393,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Oracle Container Registry](https://container-registry.oracle.com)
 - [Nexus Container Registry](https://help.sonatype.com/repomanager3/formats/docker-registry)
 - [Harbor](https://goharbor.io/)
+- [CloudRepo](https://www.cloudrepo.io/) - Fully managed private Docker registry, with Maven, npm and PyPI repositories too.
 
 ### Container Orchestration
 
