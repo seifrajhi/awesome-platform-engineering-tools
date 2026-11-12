@@ -306,6 +306,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Visual Studio Team Services](https://www.visualstudio.com/team-services/)
 - [Go CD](https://www.gocd.org/)
 - [Pipelight](https://pipelight.dev/)
+- [Land](https://useland.dev) - Hosted merge validation that tests combined branch changes and reports failures with reproduction commands.
 
 ## Continuous Delivery
 
