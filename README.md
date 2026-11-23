@@ -450,6 +450,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [SigNoz- an open-source alternative to DataDog, NewRelic, etc.](https://github.com/signoz/signoz)
 - [Loki - low cost open source logging; self-hosted or SaaS](https://grafana.com/oss/loki/)
 - [SigLens](https://github.com/siglens/siglens)
+- [SiteWatcher](https://github.com/NikKurkov/sitewatcher) - Self-hosted website uptime and response-time monitoring with TLS and domain expiry checks, status pages, and alerts.
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
 
