@@ -534,6 +534,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Upbound](https://www.upbound.io/) - The platform for platform teams.
 - [Kubero](https://github.com/kubero-dev/kubero) - A fully self-hosted Internal Developer Platform (IDP).
 - [Roadie Internal Developer Portal](https://roadie.io) - SaaS-based Internal Developer Portal.
+- [GitGrit](https://gitgrit.dev) - Open-source engineering standards as code: Python checks run against every repository on each push and pull request, with a score and badge per project.
 
 
 ## Path to senior platform engineer handbook
