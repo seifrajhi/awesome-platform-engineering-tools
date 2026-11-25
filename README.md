@@ -149,6 +149,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Monolith](https://www.monolithai.com/) - No-code AI software built for engineers.
 - [Viktor](https://www.viktor.ai/) - Implement AI in your engineering workflow.
 - [initializ.ai](https://www.initializ.ai/) - AI-Driven Unified DevSecOps Platform.
+- [Farna Control](https://github.com/farnalabs/farna-control) - Self-hosted, air-gap capable Delivery Governance Platform: pipelines of agent, manual and human approval nodes with optional eval gates, run snapshots, and hash-chained audit events for governance decisions. Source-available (BUSL 1.1), free Community edition, alpha.
   
 ## Development
 
