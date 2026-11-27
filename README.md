@@ -534,6 +534,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Upbound](https://www.upbound.io/) - The platform for platform teams.
 - [Kubero](https://github.com/kubero-dev/kubero) - A fully self-hosted Internal Developer Platform (IDP).
 - [Roadie Internal Developer Portal](https://roadie.io) - SaaS-based Internal Developer Portal.
+- [Nife](https://nife.io/) - Application platform for deploying and operating workloads across cloud, edge and private infrastructure from one control plane.
 
 
 ## Path to senior platform engineer handbook
