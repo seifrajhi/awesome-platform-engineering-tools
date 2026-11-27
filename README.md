@@ -149,6 +149,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [Monolith](https://www.monolithai.com/) - No-code AI software built for engineers.
 - [Viktor](https://www.viktor.ai/) - Implement AI in your engineering workflow.
 - [initializ.ai](https://www.initializ.ai/) - AI-Driven Unified DevSecOps Platform.
+- [Sandscale](https://sandscale.dev/) - Firecracker microVM sandboxes, workspaces and build hosts for AI coding agents, with policy controls, approvals and an audit log.
   
 ## Development
 
